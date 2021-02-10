@@ -1,0 +1,1923 @@
+Metagene	Cell type	Immunity	
+ADAM28	Activated B cell	Adaptive	Charoentong
+CD180	Activated B cell	Adaptive	Charoentong
+CD79B	Activated B cell	Adaptive	Charoentong
+BLK	Activated B cell	Adaptive	Charoentong
+CD19	Activated B cell	Adaptive	Charoentong
+MS4A1	Activated B cell	Adaptive	Charoentong
+TNFRSF17	Activated B cell	Adaptive	Charoentong
+IGHM	Activated B cell	Adaptive	Charoentong
+GNG7	Activated B cell	Adaptive	Charoentong
+MICAL3	Activated B cell	Adaptive	Charoentong
+SPIB	Activated B cell	Adaptive	Charoentong
+HLA-DOB	Activated B cell	Adaptive	Charoentong
+IGKC	Activated B cell	Adaptive	Charoentong
+PNOC	Activated B cell	Adaptive	Charoentong
+FCRL2	Activated B cell	Adaptive	Charoentong
+BACH2	Activated B cell	Adaptive	Charoentong
+CR2	Activated B cell	Adaptive	Charoentong
+TCL1A	Activated B cell	Adaptive	Charoentong
+AKNA	Activated B cell	Adaptive	Charoentong
+ARHGAP25	Activated B cell	Adaptive	Charoentong
+CCL21	Activated B cell	Adaptive	Charoentong
+CD27	Activated B cell	Adaptive	Charoentong
+CD38	Activated B cell	Adaptive	Charoentong
+CLEC17A	Activated B cell	Adaptive	Charoentong
+CLEC9A	Activated B cell	Adaptive	Charoentong
+CLECL1	Activated B cell	Adaptive	Charoentong
+AIM2	Activated CD4 T cell	Adaptive	Charoentong
+BIRC3	Activated CD4 T cell	Adaptive	Charoentong
+BRIP1	Activated CD4 T cell	Adaptive	Charoentong
+CCL20	Activated CD4 T cell	Adaptive	Charoentong
+CCL4	Activated CD4 T cell	Adaptive	Charoentong
+CCL5	Activated CD4 T cell	Adaptive	Charoentong
+CCNB1	Activated CD4 T cell	Adaptive	Charoentong
+CCR7	Activated CD4 T cell	Adaptive	Charoentong
+DUSP2	Activated CD4 T cell	Adaptive	Charoentong
+ESCO2	Activated CD4 T cell	Adaptive	Charoentong
+ETS1	Activated CD4 T cell	Adaptive	Charoentong
+EXO1	Activated CD4 T cell	Adaptive	Charoentong
+EXOC6	Activated CD4 T cell	Adaptive	Charoentong
+IARS	Activated CD4 T cell	Adaptive	Charoentong
+ITK	Activated CD4 T cell	Adaptive	Charoentong
+KIF11	Activated CD4 T cell	Adaptive	Charoentong
+KNTC1	Activated CD4 T cell	Adaptive	Charoentong
+NUF2	Activated CD4 T cell	Adaptive	Charoentong
+PRC1	Activated CD4 T cell	Adaptive	Charoentong
+PSAT1	Activated CD4 T cell	Adaptive	Charoentong
+RGS1	Activated CD4 T cell	Adaptive	Charoentong
+RTKN2	Activated CD4 T cell	Adaptive	Charoentong
+SAMSN1	Activated CD4 T cell	Adaptive	Charoentong
+SELL	Activated CD4 T cell	Adaptive	Charoentong
+TRAT1	Activated CD4 T cell	Adaptive	Charoentong
+ADRM1	Activated CD8 T cell	Adaptive	Charoentong
+AHSA1	Activated CD8 T cell	Adaptive	Charoentong
+C1GALT1C1	Activated CD8 T cell	Adaptive	Charoentong
+CCT6B	Activated CD8 T cell	Adaptive	Charoentong
+CD37	Activated CD8 T cell	Adaptive	Charoentong
+CD3D	Activated CD8 T cell	Adaptive	Charoentong
+CD3E	Activated CD8 T cell	Adaptive	Charoentong
+CD3G	Activated CD8 T cell	Adaptive	Charoentong
+CD69	Activated CD8 T cell	Adaptive	Charoentong
+CD8A	Activated CD8 T cell	Adaptive	Charoentong
+CETN3	Activated CD8 T cell	Adaptive	Charoentong
+CSE1L	Activated CD8 T cell	Adaptive	Charoentong
+GEMIN6	Activated CD8 T cell	Adaptive	Charoentong
+GNLY	Activated CD8 T cell	Adaptive	Charoentong
+GPT2	Activated CD8 T cell	Adaptive	Charoentong
+GZMA	Activated CD8 T cell	Adaptive	Charoentong
+GZMH	Activated CD8 T cell	Adaptive	Charoentong
+GZMK	Activated CD8 T cell	Adaptive	Charoentong
+IL2RB	Activated CD8 T cell	Adaptive	Charoentong
+LCK	Activated CD8 T cell	Adaptive	Charoentong
+MPZL1	Activated CD8 T cell	Adaptive	Charoentong
+NKG7	Activated CD8 T cell	Adaptive	Charoentong
+PIK3IP1	Activated CD8 T cell	Adaptive	Charoentong
+PTRH2	Activated CD8 T cell	Adaptive	Charoentong
+TIMM13	Activated CD8 T cell	Adaptive	Charoentong
+ZAP70	Activated CD8 T cell	Adaptive	Charoentong
+ABCD1	Activated dendritic cell	Innate	Charoentong
+C1QC	Activated dendritic cell	Innate	Charoentong
+CAPG	Activated dendritic cell	Innate	Charoentong
+CCL3L3	Activated dendritic cell	Innate	Charoentong
+CD207	Activated dendritic cell	Innate	Charoentong
+CD302	Activated dendritic cell	Innate	Charoentong
+ATP5B	Activated dendritic cell	Innate	Charoentong
+ATP5L	Activated dendritic cell	Innate	Charoentong
+ATP6V1A	Activated dendritic cell	Innate	Charoentong
+BCL2L1	Activated dendritic cell	Innate	Charoentong
+C1QB	Activated dendritic cell	Innate	Charoentong
+SNURF	Activated dendritic cell	Innate	Charoentong
+SPCS3	Activated dendritic cell	Innate	Charoentong
+CCNA1	Activated dendritic cell	Innate	Charoentong
+CEACAM8	Activated dendritic cell	Innate	Charoentong
+NOS2	Activated dendritic cell	Innate	Charoentong
+SRA1	Activated dendritic cell	Innate	Charoentong
+TNFRSF6B	Activated dendritic cell	Innate	Charoentong
+TREM1	Activated dendritic cell	Innate	Charoentong
+TREML1	Activated dendritic cell	Innate	Charoentong
+RHOA	Activated dendritic cell	Innate	Charoentong
+SLC25A37	Activated dendritic cell	Innate	Charoentong
+TNFSF14	Activated dendritic cell	Innate	Charoentong
+TREML4	Activated dendritic cell	Innate	Charoentong
+VNN2	Activated dendritic cell	Innate	Charoentong
+XPO6	Activated dendritic cell	Innate	Charoentong
+CLEC4C	Activated dendritic cell	Innate	Charoentong
+TNFAIP2	Activated dendritic cell	Innate	Charoentong
+UBD	Activated dendritic cell	Innate	Charoentong
+ACTR3	Activated dendritic cell	Innate	Charoentong
+RAB1A	Activated dendritic cell	Innate	Charoentong
+SLA	Activated dendritic cell	Innate	Charoentong
+HLA-DQA2	Activated dendritic cell	Innate	Charoentong
+SIGLEC5	Activated dendritic cell	Innate	Charoentong
+SLAMF9	Activated dendritic cell	Innate	Charoentong
+ADAM28	B_cells_memory		LM22
+AIM2	B_cells_memory		LM22
+ALOX5	B_cells_memory		LM22
+BACH2	B_cells_memory		LM22
+BANK1	B_cells_memory		LM22
+BLK	B_cells_memory		LM22
+CCR6	B_cells_memory		LM22
+CD180	B_cells_memory		LM22
+CD19	B_cells_memory		LM22
+CD1C	B_cells_memory		LM22
+CD22	B_cells_memory		LM22
+CD27	B_cells_memory		LM22
+CD37	B_cells_memory		LM22
+CD69	B_cells_memory		LM22
+CD72	B_cells_memory		LM22
+CD79A	B_cells_memory		LM22
+CD79B	B_cells_memory		LM22
+CLCA3P	B_cells_memory		LM22
+CR2	B_cells_memory		LM22
+CXCR5	B_cells_memory		LM22
+DENND5B	B_cells_memory		LM22
+FAIM3	B_cells_memory		LM22
+FAM65B	B_cells_memory		LM22
+FCGR2B	B_cells_memory		LM22
+FCRL2	B_cells_memory		LM22
+FRK	B_cells_memory		LM22
+GNG7	B_cells_memory		LM22
+GPR18	B_cells_memory		LM22
+GUSBP11	B_cells_memory		LM22
+HHEX	B_cells_memory		LM22
+HLA-DOB	B_cells_memory		LM22
+IFNA10	B_cells_memory		LM22
+IGHD	B_cells_memory		LM22
+IGHM	B_cells_memory		LM22
+IGKC	B_cells_memory		LM22
+IGLL3P	B_cells_memory		LM22
+IL7	B_cells_memory		LM22
+IRF8	B_cells_memory		LM22
+KIAA0226L	B_cells_memory		LM22
+LTB	B_cells_memory		LM22
+LY86	B_cells_memory		LM22
+MBL2	B_cells_memory		LM22
+MS4A1	B_cells_memory		LM22
+NMBR	B_cells_memory		LM22
+NPIPB15	B_cells_memory		LM22
+P2RX5	B_cells_memory		LM22
+PNOC	B_cells_memory		LM22
+PTPRCAP	B_cells_memory		LM22
+RALGPS2	B_cells_memory		LM22
+RASGRP2	B_cells_memory		LM22
+SIK1	B_cells_memory		LM22
+SIT1	B_cells_memory		LM22
+SLC12A1	B_cells_memory		LM22
+SP140	B_cells_memory		LM22
+SPIB	B_cells_memory		LM22
+STAP1	B_cells_memory		LM22
+TMEM156	B_cells_memory		LM22
+TNFRSF13B	B_cells_memory		LM22
+TNFRSF17	B_cells_memory		LM22
+TRAF4	B_cells_memory		LM22
+VPREB3	B_cells_memory		LM22
+ZBTB32	B_cells_memory		LM22
+ABCB4	B_cells_naive		LM22
+ADAM28	B_cells_naive		LM22
+BACH2	B_cells_naive		LM22
+BANK1	B_cells_naive		LM22
+BCL7A	B_cells_naive		LM22
+BEND5	B_cells_naive		LM22
+BLK	B_cells_naive		LM22
+BRAF	B_cells_naive		LM22
+CD180	B_cells_naive		LM22
+CD19	B_cells_naive		LM22
+CD1C	B_cells_naive		LM22
+CD22	B_cells_naive		LM22
+CD37	B_cells_naive		LM22
+CD69	B_cells_naive		LM22
+CD72	B_cells_naive		LM22
+CD79A	B_cells_naive		LM22
+CD79B	B_cells_naive		LM22
+CR2	B_cells_naive		LM22
+CXCR5	B_cells_naive		LM22
+EAF2	B_cells_naive		LM22
+FAIM3	B_cells_naive		LM22
+FCER2	B_cells_naive		LM22
+FCGR2B	B_cells_naive		LM22
+FCRL2	B_cells_naive		LM22
+FRK	B_cells_naive		LM22
+GPR18	B_cells_naive		LM22
+GUSBP11	B_cells_naive		LM22
+HHEX	B_cells_naive		LM22
+HLA-DOB	B_cells_naive		LM22
+IGHD	B_cells_naive		LM22
+IGHM	B_cells_naive		LM22
+IGKC	B_cells_naive		LM22
+IGLL3P	B_cells_naive		LM22
+IL4R	B_cells_naive		LM22
+IRF8	B_cells_naive		LM22
+KIAA0226L	B_cells_naive		LM22
+LINC00921	B_cells_naive		LM22
+LTB	B_cells_naive		LM22
+LY86	B_cells_naive		LM22
+MEP1A	B_cells_naive		LM22
+MICAL3	B_cells_naive		LM22
+MS4A1	B_cells_naive		LM22
+NIPSNAP3B	B_cells_naive		LM22
+NMBR	B_cells_naive		LM22
+P2RX5	B_cells_naive		LM22
+P2RY14	B_cells_naive		LM22
+PNOC	B_cells_naive		LM22
+PSG2	B_cells_naive		LM22
+PTPRCAP	B_cells_naive		LM22
+RALGPS2	B_cells_naive		LM22
+RASGRP2	B_cells_naive		LM22
+SELL	B_cells_naive		LM22
+SIK1	B_cells_naive		LM22
+SLC12A1	B_cells_naive		LM22
+SPIB	B_cells_naive		LM22
+STAP1	B_cells_naive		LM22
+TCL1A	B_cells_naive		LM22
+UGT1A8	B_cells_naive		LM22
+VPREB3	B_cells_naive		LM22
+ZNF286A	B_cells_naive		LM22
+ABAT	CD56bright natural killer cell	Innate	Charoentong
+C11orf75	CD56bright natural killer cell	Innate	Charoentong
+C5orf15	CD56bright natural killer cell	Innate	Charoentong
+CDHR1	CD56bright natural killer cell	Innate	Charoentong
+DCAF12	CD56bright natural killer cell	Innate	Charoentong
+DYNLL1	CD56bright natural killer cell	Innate	Charoentong
+GPR137B	CD56bright natural killer cell	Innate	Charoentong
+HCP5	CD56bright natural killer cell	Innate	Charoentong
+HDGFRP2	CD56bright natural killer cell	Innate	Charoentong
+KRT86	CD56bright natural killer cell	Innate	Charoentong
+MLST8	CD56bright natural killer cell	Innate	Charoentong
+ELMOD3	CD56bright natural killer cell	Innate	Charoentong
+ENTPD5	CD56bright natural killer cell	Innate	Charoentong
+FAM119A	CD56bright natural killer cell	Innate	Charoentong
+FAM179A	CD56bright natural killer cell	Innate	Charoentong
+CLIC2	CD56bright natural killer cell	Innate	Charoentong
+COX7A2L	CD56bright natural killer cell	Innate	Charoentong
+CREB3L4	CD56bright natural killer cell	Innate	Charoentong
+CSF1	CD56bright natural killer cell	Innate	Charoentong
+CSNK2A2	CD56bright natural killer cell	Innate	Charoentong
+CSTA	CD56bright natural killer cell	Innate	Charoentong
+CSTB	CD56bright natural killer cell	Innate	Charoentong
+CTPS	CD56bright natural killer cell	Innate	Charoentong
+CTSD	CD56bright natural killer cell	Innate	Charoentong
+FST	CD56bright natural killer cell	Innate	Charoentong
+GATA2	CD56bright natural killer cell	Innate	Charoentong
+GMPR	CD56bright natural killer cell	Innate	Charoentong
+HDC	CD56bright natural killer cell	Innate	Charoentong
+HEY1	CD56bright natural killer cell	Innate	Charoentong
+HOXA1	CD56bright natural killer cell	Innate	Charoentong
+HS2ST1	CD56bright natural killer cell	Innate	Charoentong
+HS3ST1	CD56bright natural killer cell	Innate	Charoentong
+BCL11B	CD56bright natural killer cell	Innate	Charoentong
+CDH3	CD56bright natural killer cell	Innate	Charoentong
+MYL6B	CD56bright natural killer cell	Innate	Charoentong
+NAA16	CD56bright natural killer cell	Innate	Charoentong
+ClQA	CD56bright natural killer cell	Innate	Charoentong
+ClQB	CD56bright natural killer cell	Innate	Charoentong
+CYP27B1	CD56bright natural killer cell	Innate	Charoentong
+EIF3M	CD56bright natural killer cell	Innate	Charoentong
+CYP27A1	CD56dim natural killer cell	Innate	Charoentong
+DDX55	CD56dim natural killer cell	Innate	Charoentong
+DYRK2	CD56dim natural killer cell	Innate	Charoentong
+RPL37A	CD56dim natural killer cell	Innate	Charoentong
+NOTCH3	CD56dim natural killer cell	Innate	Charoentong
+AKR7A3	CD56dim natural killer cell	Innate	Charoentong
+GPRC5C	CD56dim natural killer cell	Innate	Charoentong
+GRIN1	CD56dim natural killer cell	Innate	Charoentong
+HLA-E	CD56dim natural killer cell	Innate	Charoentong
+PORCN	CD56dim natural killer cell	Innate	Charoentong
+PSMC4	CD56dim natural killer cell	Innate	Charoentong
+UPP1	CD56dim natural killer cell	Innate	Charoentong
+IL21R	CD56dim natural killer cell	Innate	Charoentong
+KIR2DS1	CD56dim natural killer cell	Innate	Charoentong
+KIR2DS2	CD56dim natural killer cell	Innate	Charoentong
+KIR2DS5	CD56dim natural killer cell	Innate	Charoentong
+ABHD3	Central memory CD4 T cell	Adaptive	Charoentong
+AHNAK	Central memory CD4 T cell	Adaptive	Charoentong
+ANXA2P2	Central memory CD4 T cell	Adaptive	Charoentong
+AQP3	Central memory CD4 T cell	Adaptive	Charoentong
+ATHL1	Central memory CD4 T cell	Adaptive	Charoentong
+BMI1	Central memory CD4 T cell	Adaptive	Charoentong
+BZW2	Central memory CD4 T cell	Adaptive	Charoentong
+CD63	Central memory CD4 T cell	Adaptive	Charoentong
+COL4A1	Central memory CD4 T cell	Adaptive	Charoentong
+CYLD	Central memory CD4 T cell	Adaptive	Charoentong
+ELMO2	Central memory CD4 T cell	Adaptive	Charoentong
+FYN	Central memory CD4 T cell	Adaptive	Charoentong
+GLIPR1	Central memory CD4 T cell	Adaptive	Charoentong
+GSS	Central memory CD4 T cell	Adaptive	Charoentong
+IFITM2	Central memory CD4 T cell	Adaptive	Charoentong
+ITGB1	Central memory CD4 T cell	Adaptive	Charoentong
+ITGB2	Central memory CD4 T cell	Adaptive	Charoentong
+KLF5	Central memory CD4 T cell	Adaptive	Charoentong
+LSP1	Central memory CD4 T cell	Adaptive	Charoentong
+NDUFB9	Central memory CD4 T cell	Adaptive	Charoentong
+PKM2	Central memory CD4 T cell	Adaptive	Charoentong
+SFXN3	Central memory CD4 T cell	Adaptive	Charoentong
+SIRPG	Central memory CD4 T cell	Adaptive	Charoentong
+SMAD4	Central memory CD4 T cell	Adaptive	Charoentong
+STX4	Central memory CD4 T cell	Adaptive	Charoentong
+TRADD	Central memory CD4 T cell	Adaptive	Charoentong
+VIM	Central memory CD4 T cell	Adaptive	Charoentong
+XRCC6	Central memory CD4 T cell	Adaptive	Charoentong
+ACTN4	Central memory CD8 T cell	Adaptive	Charoentong
+ADAM12	Central memory CD8 T cell	Adaptive	Charoentong
+ADCY9	Central memory CD8 T cell	Adaptive	Charoentong
+F13A1	Central memory CD8 T cell	Adaptive	Charoentong
+FCER1G	Central memory CD8 T cell	Adaptive	Charoentong
+FCGR3B	Central memory CD8 T cell	Adaptive	Charoentong
+FGF7	Central memory CD8 T cell	Adaptive	Charoentong
+FKBP4	Central memory CD8 T cell	Adaptive	Charoentong
+GLUD1	Central memory CD8 T cell	Adaptive	Charoentong
+GM2A	Central memory CD8 T cell	Adaptive	Charoentong
+GUSB	Central memory CD8 T cell	Adaptive	Charoentong
+IL1RN	Central memory CD8 T cell	Adaptive	Charoentong
+NOL11	Central memory CD8 T cell	Adaptive	Charoentong
+NTRK1	Central memory CD8 T cell	Adaptive	Charoentong
+RARA	Central memory CD8 T cell	Adaptive	Charoentong
+RNF128	Central memory CD8 T cell	Adaptive	Charoentong
+SIGLEC1	Central memory CD8 T cell	Adaptive	Charoentong
+TNFRSF11A	Central memory CD8 T cell	Adaptive	Charoentong
+TOX4	Central memory CD8 T cell	Adaptive	Charoentong
+UBA52	Central memory CD8 T cell	Adaptive	Charoentong
+ULBP1	Central memory CD8 T cell	Adaptive	Charoentong
+ARHGAP22	Dendritic_cells_activated		LM22
+BIRC3	Dendritic_cells_activated		LM22
+CCL1	Dendritic_cells_activated		LM22
+CCL13	Dendritic_cells_activated		LM22
+CCL17	Dendritic_cells_activated		LM22
+CCL18	Dendritic_cells_activated		LM22
+CCL19	Dendritic_cells_activated		LM22
+CCL20	Dendritic_cells_activated		LM22
+CCL22	Dendritic_cells_activated		LM22
+CCL5	Dendritic_cells_activated		LM22
+CCL8	Dendritic_cells_activated		LM22
+CCR7	Dendritic_cells_activated		LM22
+CD1B	Dendritic_cells_activated		LM22
+CD1E	Dendritic_cells_activated		LM22
+CD80	Dendritic_cells_activated		LM22
+CD86	Dendritic_cells_activated		LM22
+CHST7	Dendritic_cells_activated		LM22
+CLIC2	Dendritic_cells_activated		LM22
+CXCL10	Dendritic_cells_activated		LM22
+CXCL11	Dendritic_cells_activated		LM22
+CYP27A1	Dendritic_cells_activated		LM22
+DHX58	Dendritic_cells_activated		LM22
+EBI3	Dendritic_cells_activated		LM22
+ETV3	Dendritic_cells_activated		LM22
+FPR3	Dendritic_cells_activated		LM22
+HESX1	Dendritic_cells_activated		LM22
+HTR2B	Dendritic_cells_activated		LM22
+IDO1	Dendritic_cells_activated		LM22
+IFI44L	Dendritic_cells_activated		LM22
+IL12B	Dendritic_cells_activated		LM22
+IL2RA	Dendritic_cells_activated		LM22
+KYNU	Dendritic_cells_activated		LM22
+LAMP3	Dendritic_cells_activated		LM22
+MAP3K13	Dendritic_cells_activated		LM22
+MMP12	Dendritic_cells_activated		LM22
+MSC	Dendritic_cells_activated		LM22
+NR4A3	Dendritic_cells_activated		LM22
+PDCD1LG2	Dendritic_cells_activated		LM22
+PLA1A	Dendritic_cells_activated		LM22
+PLA2G7	Dendritic_cells_activated		LM22
+PTGIR	Dendritic_cells_activated		LM22
+RASSF4	Dendritic_cells_activated		LM22
+RSAD2	Dendritic_cells_activated		LM22
+SIGLEC1	Dendritic_cells_activated		LM22
+SLC15A3	Dendritic_cells_activated		LM22
+SLC2A6	Dendritic_cells_activated		LM22
+SLCO5A1	Dendritic_cells_activated		LM22
+ST3GAL6	Dendritic_cells_activated		LM22
+TMEM255A	Dendritic_cells_activated		LM22
+TNFAIP6	Dendritic_cells_activated		LM22
+TNFRSF11A	Dendritic_cells_activated		LM22
+TNFRSF4	Dendritic_cells_activated		LM22
+TREM2	Dendritic_cells_activated		LM22
+ACP5	Dendritic_cells_resting		LM22
+AIF1	Dendritic_cells_resting		LM22
+ALOX15	Dendritic_cells_resting		LM22
+C1orf54	Dendritic_cells_resting		LM22
+CCDC102B	Dendritic_cells_resting		LM22
+CCL13	Dendritic_cells_resting		LM22
+CCL17	Dendritic_cells_resting		LM22
+CCL18	Dendritic_cells_resting		LM22
+CCL22	Dendritic_cells_resting		LM22
+CD1A	Dendritic_cells_resting		LM22
+CD1B	Dendritic_cells_resting		LM22
+CD1C	Dendritic_cells_resting		LM22
+CD1E	Dendritic_cells_resting		LM22
+CD209	Dendritic_cells_resting		LM22
+CD33	Dendritic_cells_resting		LM22
+CD68	Dendritic_cells_resting		LM22
+CLEC10A	Dendritic_cells_resting		LM22
+CLEC4A	Dendritic_cells_resting		LM22
+CLEC7A	Dendritic_cells_resting		LM22
+CLIC2	Dendritic_cells_resting		LM22
+DHRS11	Dendritic_cells_resting		LM22
+EGR2	Dendritic_cells_resting		LM22
+FAM198B	Dendritic_cells_resting		LM22
+FCER1A	Dendritic_cells_resting		LM22
+FCER2	Dendritic_cells_resting		LM22
+FLVCR2	Dendritic_cells_resting		LM22
+FPR3	Dendritic_cells_resting		LM22
+FZD2	Dendritic_cells_resting		LM22
+HLA-DQA1	Dendritic_cells_resting		LM22
+IGSF6	Dendritic_cells_resting		LM22
+MMP12	Dendritic_cells_resting		LM22
+NCF2	Dendritic_cells_resting		LM22
+PLA2G7	Dendritic_cells_resting		LM22
+PPFIBP1	Dendritic_cells_resting		LM22
+RNASE6	Dendritic_cells_resting		LM22
+SCN9A	Dendritic_cells_resting		LM22
+SLAMF8	Dendritic_cells_resting		LM22
+SLC15A3	Dendritic_cells_resting		LM22
+TMEM255A	Dendritic_cells_resting		LM22
+TREM2	Dendritic_cells_resting		LM22
+ATM	Effector memeory CD4 T cell	Adaptive	Charoentong
+CASP3	Effector memeory CD4 T cell	Adaptive	Charoentong
+CASQ1	Effector memeory CD4 T cell	Adaptive	Charoentong
+CD300E	Effector memeory CD4 T cell	Adaptive	Charoentong
+DARS	Effector memeory CD4 T cell	Adaptive	Charoentong
+DOCK9	Effector memeory CD4 T cell	Adaptive	Charoentong
+EXOSC9	Effector memeory CD4 T cell	Adaptive	Charoentong
+EZH2	Effector memeory CD4 T cell	Adaptive	Charoentong
+GDE1	Effector memeory CD4 T cell	Adaptive	Charoentong
+IL34	Effector memeory CD4 T cell	Adaptive	Charoentong
+NCOA4	Effector memeory CD4 T cell	Adaptive	Charoentong
+NEFL	Effector memeory CD4 T cell	Adaptive	Charoentong
+PDGFRL	Effector memeory CD4 T cell	Adaptive	Charoentong
+PTGS1	Effector memeory CD4 T cell	Adaptive	Charoentong
+REPS1	Effector memeory CD4 T cell	Adaptive	Charoentong
+SCG2	Effector memeory CD4 T cell	Adaptive	Charoentong
+SDPR	Effector memeory CD4 T cell	Adaptive	Charoentong
+SIGLEC14	Effector memeory CD4 T cell	Adaptive	Charoentong
+SIGLEC6	Effector memeory CD4 T cell	Adaptive	Charoentong
+TAL1	Effector memeory CD4 T cell	Adaptive	Charoentong
+TFEC	Effector memeory CD4 T cell	Adaptive	Charoentong
+TIPIN	Effector memeory CD4 T cell	Adaptive	Charoentong
+TPK1	Effector memeory CD4 T cell	Adaptive	Charoentong
+UQCRB	Effector memeory CD4 T cell	Adaptive	Charoentong
+USP9Y	Effector memeory CD4 T cell	Adaptive	Charoentong
+WIPF1	Effector memeory CD4 T cell	Adaptive	Charoentong
+ZCRB1	Effector memeory CD4 T cell	Adaptive	Charoentong
+ACAP1	Effector memeory CD8 T cell	Adaptive	Charoentong
+APOL3	Effector memeory CD8 T cell	Adaptive	Charoentong
+ARHGAP10	Effector memeory CD8 T cell	Adaptive	Charoentong
+ATP10D	Effector memeory CD8 T cell	Adaptive	Charoentong
+C3AR1	Effector memeory CD8 T cell	Adaptive	Charoentong
+CCR5	Effector memeory CD8 T cell	Adaptive	Charoentong
+CD160	Effector memeory CD8 T cell	Adaptive	Charoentong
+CD55	Effector memeory CD8 T cell	Adaptive	Charoentong
+CFLAR	Effector memeory CD8 T cell	Adaptive	Charoentong
+CMKLR1	Effector memeory CD8 T cell	Adaptive	Charoentong
+DAPP1	Effector memeory CD8 T cell	Adaptive	Charoentong
+FCRL6	Effector memeory CD8 T cell	Adaptive	Charoentong
+FLT3LG	Effector memeory CD8 T cell	Adaptive	Charoentong
+GZMM	Effector memeory CD8 T cell	Adaptive	Charoentong
+HAPLN3	Effector memeory CD8 T cell	Adaptive	Charoentong
+HLA-DMB	Effector memeory CD8 T cell	Adaptive	Charoentong
+HLA-DPA1	Effector memeory CD8 T cell	Adaptive	Charoentong
+HLA-DPB1	Effector memeory CD8 T cell	Adaptive	Charoentong
+IFI16	Effector memeory CD8 T cell	Adaptive	Charoentong
+LIME1	Effector memeory CD8 T cell	Adaptive	Charoentong
+LTK	Effector memeory CD8 T cell	Adaptive	Charoentong
+NFKBIA	Effector memeory CD8 T cell	Adaptive	Charoentong
+SETD7	Effector memeory CD8 T cell	Adaptive	Charoentong
+SIK1	Effector memeory CD8 T cell	Adaptive	Charoentong
+TRIB2	Effector memeory CD8 T cell	Adaptive	Charoentong
+GIPR	Eosinophil	Innate	Charoentong
+KRT18P50	Eosinophil	Innate	Charoentong
+LRMP	Eosinophil	Innate	Charoentong
+FOSB	Eosinophil	Innate	Charoentong
+RRP12	Eosinophil	Innate	Charoentong
+GPR183	Eosinophil	Innate	Charoentong
+NR4A3	Eosinophil	Innate	Charoentong
+ST3GAL6	Eosinophil	Innate	Charoentong
+DEPDC5	Eosinophil	Innate	Charoentong
+PDE6C	Eosinophil	Innate	Charoentong
+PKD2L2	Eosinophil	Innate	Charoentong
+GPR65	Eosinophil	Innate	Charoentong
+IL5RA	Eosinophil	Innate	Charoentong
+P2RY14	Eosinophil	Innate	Charoentong
+DACH1	Eosinophil	Innate	Charoentong
+DAPK2	Eosinophil	Innate	Charoentong
+EMR3	Eosinophil	Innate	Charoentong
+ALOX15	Eosinophils		LM22
+BANK1	Eosinophils		LM22
+BCL2A1	Eosinophils		LM22
+BPI	Eosinophils		LM22
+C3AR1	Eosinophils		LM22
+C5AR2	Eosinophils		LM22
+CD244	Eosinophils		LM22
+CLC	Eosinophils		LM22
+DACH1	Eosinophils		LM22
+DAPK2	Eosinophils		LM22
+DEPDC5	Eosinophils		LM22
+DPEP2	Eosinophils		LM22
+EMR1	Eosinophils		LM22
+EMR2	Eosinophils		LM22
+EMR3	Eosinophils		LM22
+EPN2	Eosinophils		LM22
+FFAR2	Eosinophils		LM22
+GIPR	Eosinophils		LM22
+GPR183	Eosinophils		LM22
+GPR65	Eosinophils		LM22
+GPR97	Eosinophils		LM22
+IL18R1	Eosinophils		LM22
+IL18RAP	Eosinophils		LM22
+IL1RL1	Eosinophils		LM22
+IL5RA	Eosinophils		LM22
+LRMP	Eosinophils		LM22
+MAK	Eosinophils		LM22
+MGAM	Eosinophils		LM22
+MS4A3	Eosinophils		LM22
+MXD1	Eosinophils		LM22
+NCF2	Eosinophils		LM22
+P2RY10	Eosinophils		LM22
+P2RY13	Eosinophils		LM22
+P2RY14	Eosinophils		LM22
+P2RY2	Eosinophils		LM22
+PADI4	Eosinophils		LM22
+PDE6C	Eosinophils		LM22
+PKD2L2	Eosinophils		LM22
+PLEKHG3	Eosinophils		LM22
+REPS2	Eosinophils		LM22
+RGS1	Eosinophils		LM22
+RGS13	Eosinophils		LM22
+RNASE2	Eosinophils		LM22
+RRP12	Eosinophils		LM22
+SAMSN1	Eosinophils		LM22
+SMPD3	Eosinophils		LM22
+SMPDL3B	Eosinophils		LM22
+ST3GAL6	Eosinophils		LM22
+TREML2	Eosinophils		LM22
+TRPM6	Eosinophils		LM22
+ZNF222	Eosinophils		LM22
+ACP5	Gamma delta T cell	Adaptive	Charoentong
+AQP9	Gamma delta T cell	Adaptive	Charoentong
+BTN3A2	Gamma delta T cell	Adaptive	Charoentong
+C1orf54	Gamma delta T cell	Adaptive	Charoentong
+CARD8	Gamma delta T cell	Adaptive	Charoentong
+CCL18	Gamma delta T cell	Adaptive	Charoentong
+CD209	Gamma delta T cell	Adaptive	Charoentong
+CD33	Gamma delta T cell	Adaptive	Charoentong
+CD36	Gamma delta T cell	Adaptive	Charoentong
+CDK5	Gamma delta T cell	Adaptive	Charoentong
+IL10RB	Gamma delta T cell	Adaptive	Charoentong
+KLRF1	Gamma delta T cell	Adaptive	Charoentong
+LGALS1	Gamma delta T cell	Adaptive	Charoentong
+MAPK7	Gamma delta T cell	Adaptive	Charoentong
+KLHL7	Gamma delta T cell	Adaptive	Charoentong
+KRT80	Gamma delta T cell	Adaptive	Charoentong
+LAMC1	Gamma delta T cell	Adaptive	Charoentong
+LCORL	Gamma delta T cell	Adaptive	Charoentong
+LMNB1	Gamma delta T cell	Adaptive	Charoentong
+MEIS3P1	Gamma delta T cell	Adaptive	Charoentong
+MPL	Gamma delta T cell	Adaptive	Charoentong
+FABP1	Gamma delta T cell	Adaptive	Charoentong
+FABP5	Gamma delta T cell	Adaptive	Charoentong
+FADD	Gamma delta T cell	Adaptive	Charoentong
+MFAP3L	Gamma delta T cell	Adaptive	Charoentong
+MINPP1	Gamma delta T cell	Adaptive	Charoentong
+RPS24	Gamma delta T cell	Adaptive	Charoentong
+RPS7	Gamma delta T cell	Adaptive	Charoentong
+RPS9	Gamma delta T cell	Adaptive	Charoentong
+DBNL	Gamma delta T cell	Adaptive	Charoentong
+CCL13	Gamma delta T cell	Adaptive	Charoentong
+CD22	Immature  B cell	Adaptive	Charoentong
+CYBB	Immature  B cell	Adaptive	Charoentong
+FAM129C	Immature  B cell	Adaptive	Charoentong
+FCRL1	Immature  B cell	Adaptive	Charoentong
+FCRL3	Immature  B cell	Adaptive	Charoentong
+FCRL5	Immature  B cell	Adaptive	Charoentong
+FCRLA	Immature  B cell	Adaptive	Charoentong
+HDAC9	Immature  B cell	Adaptive	Charoentong
+HLA-DQA1	Immature  B cell	Adaptive	Charoentong
+HVCN1	Immature  B cell	Adaptive	Charoentong
+KIAA0226	Immature  B cell	Adaptive	Charoentong
+NCF1	Immature  B cell	Adaptive	Charoentong
+NCF1B	Immature  B cell	Adaptive	Charoentong
+P2RY10	Immature  B cell	Adaptive	Charoentong
+SP100	Immature  B cell	Adaptive	Charoentong
+TXNIP	Immature  B cell	Adaptive	Charoentong
+STAP1	Immature  B cell	Adaptive	Charoentong
+TAGAP	Immature  B cell	Adaptive	Charoentong
+ZCCHC2	Immature  B cell	Adaptive	Charoentong
+ACADM	Immature dendritic cell	Innate	Charoentong
+AHCYL1	Immature dendritic cell	Innate	Charoentong
+ALDH1A2	Immature dendritic cell	Innate	Charoentong
+ALDH3A2	Immature dendritic cell	Innate	Charoentong
+ALDH9A1	Immature dendritic cell	Innate	Charoentong
+ALOX15	Immature dendritic cell	Innate	Charoentong
+AMT	Immature dendritic cell	Innate	Charoentong
+ARL1	Immature dendritic cell	Innate	Charoentong
+ATIC	Immature dendritic cell	Innate	Charoentong
+ATP5A1	Immature dendritic cell	Innate	Charoentong
+CAPZA1	Immature dendritic cell	Innate	Charoentong
+LILRA5	Immature dendritic cell	Innate	Charoentong
+RDX	Immature dendritic cell	Innate	Charoentong
+RRAGD	Immature dendritic cell	Innate	Charoentong
+TACSTD2	Immature dendritic cell	Innate	Charoentong
+INPP5F	Immature dendritic cell	Innate	Charoentong
+RAB38	Immature dendritic cell	Innate	Charoentong
+PLAU	Immature dendritic cell	Innate	Charoentong
+CSF3R	Immature dendritic cell	Innate	Charoentong
+SLC18A2	Immature dendritic cell	Innate	Charoentong
+AMPD2	Immature dendritic cell	Innate	Charoentong
+CLTB	Immature dendritic cell	Innate	Charoentong
+C1orf162	Immature dendritic cell	Innate	Charoentong
+AIF1	Macrophage	Innate	Charoentong
+CCL1	Macrophage	Innate	Charoentong
+CCL14	Macrophage	Innate	Charoentong
+CCL23	Macrophage	Innate	Charoentong
+CCL26	Macrophage	Innate	Charoentong
+CD300LB	Macrophage	Innate	Charoentong
+CNR1	Macrophage	Innate	Charoentong
+CNR2	Macrophage	Innate	Charoentong
+EIF1	Macrophage	Innate	Charoentong
+EIF4A1	Macrophage	Innate	Charoentong
+FPR1	Macrophage	Innate	Charoentong
+FPR2	Macrophage	Innate	Charoentong
+FRAT2	Macrophage	Innate	Charoentong
+GPR27	Macrophage	Innate	Charoentong
+GPR77	Macrophage	Innate	Charoentong
+RNASE2	Macrophage	Innate	Charoentong
+MS4A2	Macrophage	Innate	Charoentong
+BASP1	Macrophage	Innate	Charoentong
+IGSF6	Macrophage	Innate	Charoentong
+HK3	Macrophage	Innate	Charoentong
+VNN1	Macrophage	Innate	Charoentong
+FES	Macrophage	Innate	Charoentong
+NPL	Macrophage	Innate	Charoentong
+FZD2	Macrophage	Innate	Charoentong
+FAM198B	Macrophage	Innate	Charoentong
+HNMT	Macrophage	Innate	Charoentong
+SLC15A3	Macrophage	Innate	Charoentong
+CD4	Macrophage	Innate	Charoentong
+TXNDC3	Macrophage	Innate	Charoentong
+FRMD4A	Macrophage	Innate	Charoentong
+CRYBB1	Macrophage	Innate	Charoentong
+HRH1	Macrophage	Innate	Charoentong
+WNT5B	Macrophage	Innate	Charoentong
+ACP5	Macrophages_M0		LM22
+ADAMDEC1	Macrophages_M0		LM22
+AQP9	Macrophages_M0		LM22
+BHLHE41	Macrophages_M0		LM22
+C5AR1	Macrophages_M0		LM22
+CCDC102B	Macrophages_M0		LM22
+CCL18	Macrophages_M0		LM22
+CCL22	Macrophages_M0		LM22
+CCL7	Macrophages_M0		LM22
+CD68	Macrophages_M0		LM22
+CHI3L1	Macrophages_M0		LM22
+COL8A2	Macrophages_M0		LM22
+CSF1	Macrophages_M0		LM22
+CXCL3	Macrophages_M0		LM22
+CXCL5	Macrophages_M0		LM22
+CYP27A1	Macrophages_M0		LM22
+DCSTAMP	Macrophages_M0		LM22
+FAM198B	Macrophages_M0		LM22
+GPC4	Macrophages_M0		LM22
+HK3	Macrophages_M0		LM22
+IGSF6	Macrophages_M0		LM22
+MARCO	Macrophages_M0		LM22
+MMP9	Macrophages_M0		LM22
+NCF2	Macrophages_M0		LM22
+PLA2G7	Macrophages_M0		LM22
+PPBP	Macrophages_M0		LM22
+QPCT	Macrophages_M0		LM22
+SLAMF8	Macrophages_M0		LM22
+SLC12A8	Macrophages_M0		LM22
+SLC15A3	Macrophages_M0		LM22
+TNFSF14	Macrophages_M0		LM22
+TREM2	Macrophages_M0		LM22
+VNN1	Macrophages_M0		LM22
+ACHE	Macrophages_M1		LM22
+ADAMDEC1	Macrophages_M1		LM22
+APOBEC3A	Macrophages_M1		LM22
+APOL3	Macrophages_M1		LM22
+APOL6	Macrophages_M1		LM22
+AQP9	Macrophages_M1		LM22
+ARRB1	Macrophages_M1		LM22
+CCL19	Macrophages_M1		LM22
+CCL5	Macrophages_M1		LM22
+CCL8	Macrophages_M1		LM22
+CCR7	Macrophages_M1		LM22
+CD38	Macrophages_M1		LM22
+CD40	Macrophages_M1		LM22
+CHI3L1	Macrophages_M1		LM22
+CLIC2	Macrophages_M1		LM22
+CXCL10	Macrophages_M1		LM22
+CXCL11	Macrophages_M1		LM22
+CXCL13	Macrophages_M1		LM22
+CXCL9	Macrophages_M1		LM22
+CYP27B1	Macrophages_M1		LM22
+DHX58	Macrophages_M1		LM22
+EBI3	Macrophages_M1		LM22
+GGT5	Macrophages_M1		LM22
+HESX1	Macrophages_M1		LM22
+IDO1	Macrophages_M1		LM22
+IFI44L	Macrophages_M1		LM22
+IL2RA	Macrophages_M1		LM22
+KIAA0754	Macrophages_M1		LM22
+KYNU	Macrophages_M1		LM22
+LAG3	Macrophages_M1		LM22
+LAMP3	Macrophages_M1		LM22
+LILRA3	Macrophages_M1		LM22
+LILRB2	Macrophages_M1		LM22
+NOD2	Macrophages_M1		LM22
+PLA1A	Macrophages_M1		LM22
+PTGIR	Macrophages_M1		LM22
+RASSF4	Macrophages_M1		LM22
+RSAD2	Macrophages_M1		LM22
+SIGLEC1	Macrophages_M1		LM22
+SLAMF1	Macrophages_M1		LM22
+SLC15A3	Macrophages_M1		LM22
+SLC2A6	Macrophages_M1		LM22
+SOCS1	Macrophages_M1		LM22
+TLR7	Macrophages_M1		LM22
+TLR8	Macrophages_M1		LM22
+TNFAIP6	Macrophages_M1		LM22
+TNIP3	Macrophages_M1		LM22
+TRPM4	Macrophages_M1		LM22
+ADAMDEC1	Macrophages_M2		LM22
+AIF1	Macrophages_M2		LM22
+ALOX15	Macrophages_M2		LM22
+CCL13	Macrophages_M2		LM22
+CCL14	Macrophages_M2		LM22
+CCL18	Macrophages_M2		LM22
+CCL23	Macrophages_M2		LM22
+CCL8	Macrophages_M2		LM22
+CD209	Macrophages_M2		LM22
+CD4	Macrophages_M2		LM22
+CD68	Macrophages_M2		LM22
+CFP	Macrophages_M2		LM22
+CHI3L1	Macrophages_M2		LM22
+CLEC10A	Macrophages_M2		LM22
+CLEC4A	Macrophages_M2		LM22
+CLIC2	Macrophages_M2		LM22
+CRYBB1	Macrophages_M2		LM22
+EBI3	Macrophages_M2		LM22
+FAM198B	Macrophages_M2		LM22
+FES	Macrophages_M2		LM22
+FRMD4A	Macrophages_M2		LM22
+FZD2	Macrophages_M2		LM22
+GGT5	Macrophages_M2		LM22
+GSTT1	Macrophages_M2		LM22
+HRH1	Macrophages_M2		LM22
+HTR2B	Macrophages_M2		LM22
+MS4A6A	Macrophages_M2		LM22
+NME8	Macrophages_M2		LM22
+NPL	Macrophages_M2		LM22
+P2RY13	Macrophages_M2		LM22
+PDCD1LG2	Macrophages_M2		LM22
+RENBP	Macrophages_M2		LM22
+SIGLEC1	Macrophages_M2		LM22
+SLC15A3	Macrophages_M2		LM22
+TLR8	Macrophages_M2		LM22
+TREM2	Macrophages_M2		LM22
+WNT5B	Macrophages_M2		LM22
+ADAMTS3	Mast cell	Innate	Charoentong
+CPA3	Mast cell	Innate	Charoentong
+CMA1	Mast cell	Innate	Charoentong
+CTSG	Mast cell	Innate	Charoentong
+ARHGAP15	Mast cell	Innate	Charoentong
+CPM	Mast cell	Innate	Charoentong
+FCN1	Mast cell	Innate	Charoentong
+FTL	Mast cell	Innate	Charoentong
+HSPA6	Mast cell	Innate	Charoentong
+ITGA9	Mast cell	Innate	Charoentong
+RNASE3	Mast cell	Innate	Charoentong
+S100A4	Mast cell	Innate	Charoentong
+SIGLEC8	Mast cell	Innate	Charoentong
+SLC6A4	Mast cell	Innate	Charoentong
+PTGS2	Mast cell	Innate	Charoentong
+EGR3	Mast cell	Innate	Charoentong
+PILRA	Mast cell	Innate	Charoentong
+ATP8B4	Mast_cells_activated		LM22
+BPI	Mast_cells_activated		LM22
+CCL1	Mast_cells_activated		LM22
+CCL20	Mast_cells_activated		LM22
+CCL4	Mast_cells_activated		LM22
+CD33	Mast_cells_activated		LM22
+CLC	Mast_cells_activated		LM22
+CMA1	Mast_cells_activated		LM22
+CPA3	Mast_cells_activated		LM22
+CSF2	Mast_cells_activated		LM22
+CTSG	Mast_cells_activated		LM22
+CXCL3	Mast_cells_activated		LM22
+FCER1A	Mast_cells_activated		LM22
+GZMB	Mast_cells_activated		LM22
+HDC	Mast_cells_activated		LM22
+HOXA1	Mast_cells_activated		LM22
+HPGDS	Mast_cells_activated		LM22
+IL18R1	Mast_cells_activated		LM22
+IL1A	Mast_cells_activated		LM22
+IL1B	Mast_cells_activated		LM22
+IL1RL1	Mast_cells_activated		LM22
+IL3	Mast_cells_activated		LM22
+IL5	Mast_cells_activated		LM22
+LINC00597	Mast_cells_activated		LM22
+MARCH3	Mast_cells_activated		LM22
+MS4A2	Mast_cells_activated		LM22
+MS4A3	Mast_cells_activated		LM22
+MYB	Mast_cells_activated		LM22
+NOX3	Mast_cells_activated		LM22
+NTRK1	Mast_cells_activated		LM22
+P2RX1	Mast_cells_activated		LM22
+PRG2	Mast_cells_activated		LM22
+RAB27B	Mast_cells_activated		LM22
+RGS13	Mast_cells_activated		LM22
+SLC12A8	Mast_cells_activated		LM22
+STXBP6	Mast_cells_activated		LM22
+TEC	Mast_cells_activated		LM22
+TPSAB1	Mast_cells_activated		LM22
+ADAMTS3	Mast_cells_resting		LM22
+ADRB2	Mast_cells_resting		LM22
+ATP8B4	Mast_cells_resting		LM22
+BMP2K	Mast_cells_resting		LM22
+BPI	Mast_cells_resting		LM22
+C3AR1	Mast_cells_resting		LM22
+CD33	Mast_cells_resting		LM22
+CEACAM8	Mast_cells_resting		LM22
+CLC	Mast_cells_resting		LM22
+CMA1	Mast_cells_resting		LM22
+CPA3	Mast_cells_resting		LM22
+CRISP3	Mast_cells_resting		LM22
+CTSG	Mast_cells_resting		LM22
+FAM124B	Mast_cells_resting		LM22
+FAM174B	Mast_cells_resting		LM22
+FCER1A	Mast_cells_resting		LM22
+GFI1	Mast_cells_resting		LM22
+HDC	Mast_cells_resting		LM22
+HPGDS	Mast_cells_resting		LM22
+IL18R1	Mast_cells_resting		LM22
+LTC4S	Mast_cells_resting		LM22
+MS4A2	Mast_cells_resting		LM22
+MS4A3	Mast_cells_resting		LM22
+MYB	Mast_cells_resting		LM22
+NOX3	Mast_cells_resting		LM22
+NTRK1	Mast_cells_resting		LM22
+P2RX1	Mast_cells_resting		LM22
+P2RY14	Mast_cells_resting		LM22
+PAQR5	Mast_cells_resting		LM22
+PRG2	Mast_cells_resting		LM22
+RAB27B	Mast_cells_resting		LM22
+RGS13	Mast_cells_resting		LM22
+sep-08	Mast_cells_resting		LM22
+SLC12A8	Mast_cells_resting		LM22
+ST8SIA1	Mast_cells_resting		LM22
+STAP1	Mast_cells_resting		LM22
+STXBP6	Mast_cells_resting		LM22
+TPSAB1	Mast_cells_resting		LM22
+CCR2	MDSC	Innate	Charoentong
+CD14	MDSC	Innate	Charoentong
+CD2	MDSC	Innate	Charoentong
+CD86	MDSC	Innate	Charoentong
+CXCR4	MDSC	Innate	Charoentong
+FCGR2A	MDSC	Innate	Charoentong
+FCGR2B	MDSC	Innate	Charoentong
+FCGR3A	MDSC	Innate	Charoentong
+FERMT3	MDSC	Innate	Charoentong
+GPSM3	MDSC	Innate	Charoentong
+IL18BP	MDSC	Innate	Charoentong
+IL4R	MDSC	Innate	Charoentong
+ITGAL	MDSC	Innate	Charoentong
+ITGAM	MDSC	Innate	Charoentong
+PARVG	MDSC	Innate	Charoentong
+PSAP	MDSC	Innate	Charoentong
+PTGER2	MDSC	Innate	Charoentong
+PTGES2	MDSC	Innate	Charoentong
+S100A8	MDSC	Innate	Charoentong
+S100A9	MDSC	Innate	Charoentong
+AICDA	Memory B cell	Adaptive	Charoentong
+CCNA2	Memory B cell	Adaptive	Charoentong
+CDKN3	Memory B cell	Adaptive	Charoentong
+CLCN5	Memory B cell	Adaptive	Charoentong
+ENPP1	Memory B cell	Adaptive	Charoentong
+FCER1A	Memory B cell	Adaptive	Charoentong
+FCRL4	Memory B cell	Adaptive	Charoentong
+MYC	Memory B cell	Adaptive	Charoentong
+RUNX2	Memory B cell	Adaptive	Charoentong
+SORL1	Memory B cell	Adaptive	Charoentong
+SOX5	Memory B cell	Adaptive	Charoentong
+STAT5A	Memory B cell	Adaptive	Charoentong
+STAT5B	Memory B cell	Adaptive	Charoentong
+TLR9	Memory B cell	Adaptive	Charoentong
+ASGR2	Monocyte	Innate	Charoentong
+CFP	Monocyte	Innate	Charoentong
+ASGR1	Monocyte	Innate	Charoentong
+CD1D	Monocyte	Innate	Charoentong
+UPK3A	Monocyte	Innate	Charoentong
+ACTG1	Monocyte	Innate	Charoentong
+ANXA5	Monocyte	Innate	Charoentong
+ATP6V1B2	Monocyte	Innate	Charoentong
+CFL1	Monocyte	Innate	Charoentong
+DAZAP2	Monocyte	Innate	Charoentong
+CTBS	Monocyte	Innate	Charoentong
+EMR4P	Monocyte	Innate	Charoentong
+HIVEP2	Monocyte	Innate	Charoentong
+MARCKSL1	Monocyte	Innate	Charoentong
+MBP	Monocyte	Innate	Charoentong
+MMP15	Monocyte	Innate	Charoentong
+PNPLA6	Monocyte	Innate	Charoentong
+TMBIM6	Monocyte	Innate	Charoentong
+PQBP1	Monocyte	Innate	Charoentong
+TEX264	Monocyte	Innate	Charoentong
+IKZF1	Monocyte	Innate	Charoentong
+AIF1	Monocytes		LM22
+APOBEC3A	Monocytes		LM22
+AQP9	Monocytes		LM22
+ASGR1	Monocytes		LM22
+ASGR2	Monocytes		LM22
+BST1	Monocytes		LM22
+C5AR1	Monocytes		LM22
+CCR2	Monocytes		LM22
+CD1D	Monocytes		LM22
+CD33	Monocytes		LM22
+CD68	Monocytes		LM22
+CDA	Monocytes		LM22
+CFP	Monocytes		LM22
+CHST15	Monocytes		LM22
+CLEC4A	Monocytes		LM22
+CLEC7A	Monocytes		LM22
+CREB5	Monocytes		LM22
+CSF3R	Monocytes		LM22
+FAM198B	Monocytes		LM22
+FCN1	Monocytes		LM22
+FES	Monocytes		LM22
+FOSB	Monocytes		LM22
+FPR1	Monocytes		LM22
+FZD2	Monocytes		LM22
+HCK	Monocytes		LM22
+HK3	Monocytes		LM22
+HNMT	Monocytes		LM22
+HPSE	Monocytes		LM22
+IGSF6	Monocytes		LM22
+LILRA2	Monocytes		LM22
+LILRA3	Monocytes		LM22
+LILRB2	Monocytes		LM22
+LST1	Monocytes		LM22
+MEFV	Monocytes		LM22
+MNDA	Monocytes		LM22
+MS4A6A	Monocytes		LM22
+NCF2	Monocytes		LM22
+NFE2	Monocytes		LM22
+NLRP3	Monocytes		LM22
+NOD2	Monocytes		LM22
+P2RY13	Monocytes		LM22
+PADI4	Monocytes		LM22
+RNASE2	Monocytes		LM22
+RNASE6	Monocytes		LM22
+S100A12	Monocytes		LM22
+SLC15A3	Monocytes		LM22
+TLR2	Monocytes		LM22
+TLR7	Monocytes		LM22
+TLR8	Monocytes		LM22
+UPK3A	Monocytes		LM22
+VNN1	Monocytes		LM22
+VNN2	Monocytes		LM22
+AKT3	Natural killer cell	Innate	Charoentong
+AXL	Natural killer cell	Innate	Charoentong
+BST2	Natural killer cell	Innate	Charoentong
+CDH2	Natural killer cell	Innate	Charoentong
+CRTAM	Natural killer cell	Innate	Charoentong
+CSF2RA	Natural killer cell	Innate	Charoentong
+CTSZ	Natural killer cell	Innate	Charoentong
+CXCL1	Natural killer cell	Innate	Charoentong
+CYTH1	Natural killer cell	Innate	Charoentong
+DAXX	Natural killer cell	Innate	Charoentong
+DGKH	Natural killer cell	Innate	Charoentong
+DLL4	Natural killer cell	Innate	Charoentong
+DPYD	Natural killer cell	Innate	Charoentong
+ERBB3	Natural killer cell	Innate	Charoentong
+F11R	Natural killer cell	Innate	Charoentong
+FAM27A	Natural killer cell	Innate	Charoentong
+FAM49A	Natural killer cell	Innate	Charoentong
+FASLG	Natural killer cell	Innate	Charoentong
+FCGR1A	Natural killer cell	Innate	Charoentong
+FN1	Natural killer cell	Innate	Charoentong
+FSTL1	Natural killer cell	Innate	Charoentong
+FUCA1	Natural killer cell	Innate	Charoentong
+GBP3	Natural killer cell	Innate	Charoentong
+GLS2	Natural killer cell	Innate	Charoentong
+GRB2	Natural killer cell	Innate	Charoentong
+LST1	Natural killer cell	Innate	Charoentong
+BCL2	Natural killer cell	Innate	Charoentong
+CDC5L	Natural killer cell	Innate	Charoentong
+FGF18	Natural killer cell	Innate	Charoentong
+FUT5	Natural killer cell	Innate	Charoentong
+FZR1	Natural killer cell	Innate	Charoentong
+GAGE2	Natural killer cell	Innate	Charoentong
+IGFBP5	Natural killer cell	Innate	Charoentong
+KANK2	Natural killer cell	Innate	Charoentong
+LDB3	Natural killer cell	Innate	Charoentong
+BTN2A2	Natural killer T cell	Innate	Charoentong
+CD101	Natural killer T cell	Innate	Charoentong
+CD109	Natural killer T cell	Innate	Charoentong
+CNPY3	Natural killer T cell	Innate	Charoentong
+CNPY4	Natural killer T cell	Innate	Charoentong
+CREB1	Natural killer T cell	Innate	Charoentong
+CRTC2	Natural killer T cell	Innate	Charoentong
+CRTC3	Natural killer T cell	Innate	Charoentong
+CSF2	Natural killer T cell	Innate	Charoentong
+KLRC1	Natural killer T cell	Innate	Charoentong
+FUT4	Natural killer T cell	Innate	Charoentong
+ICAM2	Natural killer T cell	Innate	Charoentong
+IL32	Natural killer T cell	Innate	Charoentong
+LAMP2	Natural killer T cell	Innate	Charoentong
+LILRB5	Natural killer T cell	Innate	Charoentong
+KLRG1	Natural killer T cell	Innate	Charoentong
+HSPA4	Natural killer T cell	Innate	Charoentong
+HSPB6	Natural killer T cell	Innate	Charoentong
+ISM2	Natural killer T cell	Innate	Charoentong
+ITIH2	Natural killer T cell	Innate	Charoentong
+KDM4C	Natural killer T cell	Innate	Charoentong
+KIR2DS4	Natural killer T cell	Innate	Charoentong
+KIRREL3	Natural killer T cell	Innate	Charoentong
+SDCBP	Natural killer T cell	Innate	Charoentong
+NFATC2IP	Natural killer T cell	Innate	Charoentong
+MICB	Natural killer T cell	Innate	Charoentong
+KIR2DL1	Natural killer T cell	Innate	Charoentong
+KIR2DL3	Natural killer T cell	Innate	Charoentong
+KIR3DL1	Natural killer T cell	Innate	Charoentong
+KIR3DL2	Natural killer T cell	Innate	Charoentong
+NCR1	Natural killer T cell	Innate	Charoentong
+FOSL1	Natural killer T cell	Innate	Charoentong
+TSLP	Natural killer T cell	Innate	Charoentong
+SLC7A7	Natural killer T cell	Innate	Charoentong
+SPP1	Natural killer T cell	Innate	Charoentong
+TREM2	Natural killer T cell	Innate	Charoentong
+UBASH3A	Natural killer T cell	Innate	Charoentong
+YBX2	Natural killer T cell	Innate	Charoentong
+CCDC88A	Natural killer T cell	Innate	Charoentong
+CLEC1A	Natural killer T cell	Innate	Charoentong
+THBD	Natural killer T cell	Innate	Charoentong
+PDPN	Natural killer T cell	Innate	Charoentong
+VCAM1	Natural killer T cell	Innate	Charoentong
+EMR1	Natural killer T cell	Innate	Charoentong
+CREB5	Neutrophil	Innate	Charoentong
+CDA	Neutrophil	Innate	Charoentong
+CHST15	Neutrophil	Innate	Charoentong
+S100A12	Neutrophil	Innate	Charoentong
+APOBEC3A	Neutrophil	Innate	Charoentong
+CASP5	Neutrophil	Innate	Charoentong
+MMP25	Neutrophil	Innate	Charoentong
+HAL	Neutrophil	Innate	Charoentong
+C1orf183	Neutrophil	Innate	Charoentong
+FFAR2	Neutrophil	Innate	Charoentong
+MAK	Neutrophil	Innate	Charoentong
+CXCR1	Neutrophil	Innate	Charoentong
+STEAP4	Neutrophil	Innate	Charoentong
+MGAM	Neutrophil	Innate	Charoentong
+BTNL8	Neutrophil	Innate	Charoentong
+CXCR2	Neutrophil	Innate	Charoentong
+TNFRSF10C	Neutrophil	Innate	Charoentong
+VNN3	Neutrophil	Innate	Charoentong
+AIF1	Neutrophils		LM22
+APOBEC3A	Neutrophils		LM22
+AQP9	Neutrophils		LM22
+BTNL8	Neutrophils		LM22
+C5AR1	Neutrophils		LM22
+CAMP	Neutrophils		LM22
+CASP5	Neutrophils		LM22
+CCR3	Neutrophils		LM22
+CDA	Neutrophils		LM22
+CEACAM3	Neutrophils		LM22
+CFP	Neutrophils		LM22
+CHI3L1	Neutrophils		LM22
+CHST15	Neutrophils		LM22
+CLC	Neutrophils		LM22
+CREB5	Neutrophils		LM22
+CSF3R	Neutrophils		LM22
+CXCR1	Neutrophils		LM22
+CXCR2	Neutrophils		LM22
+DPEP2	Neutrophils		LM22
+EMR2	Neutrophils		LM22
+EMR3	Neutrophils		LM22
+FAM212B	Neutrophils		LM22
+FCGR3B	Neutrophils		LM22
+FFAR2	Neutrophils		LM22
+FPR1	Neutrophils		LM22
+FPR2	Neutrophils		LM22
+GPR97	Neutrophils		LM22
+HAL	Neutrophils		LM22
+HSPA6	Neutrophils		LM22
+IGSF6	Neutrophils		LM22
+IL18RAP	Neutrophils		LM22
+LILRA2	Neutrophils		LM22
+LILRB2	Neutrophils		LM22
+LST1	Neutrophils		LM22
+MAK	Neutrophils		LM22
+MEFV	Neutrophils		LM22
+MGAM	Neutrophils		LM22
+MMP25	Neutrophils		LM22
+MNDA	Neutrophils		LM22
+MXD1	Neutrophils		LM22
+NCF2	Neutrophils		LM22
+NFE2	Neutrophils		LM22
+P2RY13	Neutrophils		LM22
+P2RY14	Neutrophils		LM22
+PADI4	Neutrophils		LM22
+PGLYRP1	Neutrophils		LM22
+PLEKHG3	Neutrophils		LM22
+QPCT	Neutrophils		LM22
+REPS2	Neutrophils		LM22
+S100A12	Neutrophils		LM22
+STEAP4	Neutrophils		LM22
+TLR2	Neutrophils		LM22
+TLR8	Neutrophils		LM22
+TNFAIP6	Neutrophils		LM22
+TNFRSF10C	Neutrophils		LM22
+TREM1	Neutrophils		LM22
+TREML2	Neutrophils		LM22
+VNN1	Neutrophils		LM22
+VNN2	Neutrophils		LM22
+VNN3	Neutrophils		LM22
+APOBEC3G	NK_cells_activated		LM22
+APOL6	NK_cells_activated		LM22
+CCL4	NK_cells_activated		LM22
+CCL5	NK_cells_activated		LM22
+CCND2	NK_cells_activated		LM22
+CD244	NK_cells_activated		LM22
+CD247	NK_cells_activated		LM22
+CD69	NK_cells_activated		LM22
+CD7	NK_cells_activated		LM22
+CD96	NK_cells_activated		LM22
+CDK6	NK_cells_activated		LM22
+CSF2	NK_cells_activated		LM22
+CST7	NK_cells_activated		LM22
+CTSW	NK_cells_activated		LM22
+DPP4	NK_cells_activated		LM22
+FASLG	NK_cells_activated		LM22
+GNLY	NK_cells_activated		LM22
+GPR171	NK_cells_activated		LM22
+GPR18	NK_cells_activated		LM22
+GRAP2	NK_cells_activated		LM22
+GZMA	NK_cells_activated		LM22
+GZMB	NK_cells_activated		LM22
+GZMH	NK_cells_activated		LM22
+GZMM	NK_cells_activated		LM22
+IFNG	NK_cells_activated		LM22
+IL12RB2	NK_cells_activated		LM22
+IL18R1	NK_cells_activated		LM22
+IL18RAP	NK_cells_activated		LM22
+IL2RB	NK_cells_activated		LM22
+KIR2DL1	NK_cells_activated		LM22
+KIR2DL4	NK_cells_activated		LM22
+KIR2DS4	NK_cells_activated		LM22
+KIR3DL2	NK_cells_activated		LM22
+KLRB1	NK_cells_activated		LM22
+KLRC3	NK_cells_activated		LM22
+KLRD1	NK_cells_activated		LM22
+KLRF1	NK_cells_activated		LM22
+KLRK1	NK_cells_activated		LM22
+LCK	NK_cells_activated		LM22
+LTA	NK_cells_activated		LM22
+LTB	NK_cells_activated		LM22
+NAALADL1	NK_cells_activated		LM22
+NCR3	NK_cells_activated		LM22
+NKG7	NK_cells_activated		LM22
+OSM	NK_cells_activated		LM22
+PRF1	NK_cells_activated		LM22
+PRR5L	NK_cells_activated		LM22
+PTGDR	NK_cells_activated		LM22
+PTGER2	NK_cells_activated		LM22
+PTPRCAP	NK_cells_activated		LM22
+PVRIG	NK_cells_activated		LM22
+S1PR5	NK_cells_activated		LM22
+SH2D1A	NK_cells_activated		LM22
+SOCS1	NK_cells_activated		LM22
+TBX21	NK_cells_activated		LM22
+TNFSF14	NK_cells_activated		LM22
+TRDC	NK_cells_activated		LM22
+TXK	NK_cells_activated		LM22
+ZAP70	NK_cells_activated		LM22
+AZU1	NK_cells_resting		LM22
+BPI	NK_cells_resting		LM22
+CAMP	NK_cells_resting		LM22
+CCL5	NK_cells_resting		LM22
+CD160	NK_cells_resting		LM22
+CD2	NK_cells_resting		LM22
+CD244	NK_cells_resting		LM22
+CD247	NK_cells_resting		LM22
+CD7	NK_cells_resting		LM22
+CD96	NK_cells_resting		LM22
+CDHR1	NK_cells_resting		LM22
+CEACAM8	NK_cells_resting		LM22
+CST7	NK_cells_resting		LM22
+CTSW	NK_cells_resting		LM22
+DEFA4	NK_cells_resting		LM22
+ELANE	NK_cells_resting		LM22
+GFI1	NK_cells_resting		LM22
+GNLY	NK_cells_resting		LM22
+GZMA	NK_cells_resting		LM22
+GZMB	NK_cells_resting		LM22
+GZMH	NK_cells_resting		LM22
+GZMK	NK_cells_resting		LM22
+GZMM	NK_cells_resting		LM22
+IL12RB2	NK_cells_resting		LM22
+IL18R1	NK_cells_resting		LM22
+IL18RAP	NK_cells_resting		LM22
+IL2RB	NK_cells_resting		LM22
+KIR2DL1	NK_cells_resting		LM22
+KIR3DL2	NK_cells_resting		LM22
+KLRB1	NK_cells_resting		LM22
+KLRC3	NK_cells_resting		LM22
+KLRC4	NK_cells_resting		LM22
+KLRD1	NK_cells_resting		LM22
+KLRF1	NK_cells_resting		LM22
+KLRK1	NK_cells_resting		LM22
+LCK	NK_cells_resting		LM22
+MGAM	NK_cells_resting		LM22
+MS4A3	NK_cells_resting		LM22
+NAALADL1	NK_cells_resting		LM22
+NKG7	NK_cells_resting		LM22
+NME8	NK_cells_resting		LM22
+PLEKHF1	NK_cells_resting		LM22
+PRF1	NK_cells_resting		LM22
+PRR5L	NK_cells_resting		LM22
+PTGDR	NK_cells_resting		LM22
+PTPRCAP	NK_cells_resting		LM22
+PVRIG	NK_cells_resting		LM22
+S1PR5	NK_cells_resting		LM22
+SH2D1A	NK_cells_resting		LM22
+TBX21	NK_cells_resting		LM22
+TEP1	NK_cells_resting		LM22
+TRBC1	NK_cells_resting		LM22
+TRDC	NK_cells_resting		LM22
+TTC38	NK_cells_resting		LM22
+TXK	NK_cells_resting		LM22
+ZAP70	NK_cells_resting		LM22
+ZNF135	NK_cells_resting		LM22
+ABCB9	Plasma_cells		LM22
+AMPD1	Plasma_cells		LM22
+ANGPT4	Plasma_cells		LM22
+ATXN8OS	Plasma_cells		LM22
+C11orf80	Plasma_cells		LM22
+CCR10	Plasma_cells		LM22
+CD27	Plasma_cells		LM22
+CD38	Plasma_cells		LM22
+CD79A	Plasma_cells		LM22
+DENND5B	Plasma_cells		LM22
+EAF2	Plasma_cells		LM22
+FCRL2	Plasma_cells		LM22
+GNG7	Plasma_cells		LM22
+GPR25	Plasma_cells		LM22
+GUSBP11	Plasma_cells		LM22
+HIST1H2AE	Plasma_cells		LM22
+HIST1H2BG	Plasma_cells		LM22
+HLA-DOB	Plasma_cells		LM22
+IGHD	Plasma_cells		LM22
+IGHE	Plasma_cells		LM22
+IGHM	Plasma_cells		LM22
+IGKC	Plasma_cells		LM22
+IGLL3P	Plasma_cells		LM22
+KCNA3	Plasma_cells		LM22
+KCNG2	Plasma_cells		LM22
+LIME1	Plasma_cells		LM22
+LOC100130100	Plasma_cells		LM22
+MAN1A1	Plasma_cells		LM22
+MANEA	Plasma_cells		LM22
+MAST1	Plasma_cells		LM22
+MROH7	Plasma_cells		LM22
+MZB1	Plasma_cells		LM22
+P2RX5	Plasma_cells		LM22
+PAX7	Plasma_cells		LM22
+PDK1	Plasma_cells		LM22
+PNOC	Plasma_cells		LM22
+RASGRP3	Plasma_cells		LM22
+REN	Plasma_cells		LM22
+RGS13	Plasma_cells		LM22
+RPL3P7	Plasma_cells		LM22
+SIK1	Plasma_cells		LM22
+SPAG4	Plasma_cells		LM22
+ST6GALNAC4	Plasma_cells		LM22
+TGM5	Plasma_cells		LM22
+TMEM156	Plasma_cells		LM22
+TNFRSF17	Plasma_cells		LM22
+UGT2B17	Plasma_cells		LM22
+ZBP1	Plasma_cells		LM22
+ZNF165	Plasma_cells		LM22
+CBX6	Plasmacytoid dendritic cell	Innate	Charoentong
+DAB2	Plasmacytoid dendritic cell	Innate	Charoentong
+DDX17	Plasmacytoid dendritic cell	Innate	Charoentong
+HIGD1A	Plasmacytoid dendritic cell	Innate	Charoentong
+IDH3A	Plasmacytoid dendritic cell	Innate	Charoentong
+IL3RA	Plasmacytoid dendritic cell	Innate	Charoentong
+MAGED1	Plasmacytoid dendritic cell	Innate	Charoentong
+NUCB2	Plasmacytoid dendritic cell	Innate	Charoentong
+OFD1	Plasmacytoid dendritic cell	Innate	Charoentong
+OGT	Plasmacytoid dendritic cell	Innate	Charoentong
+PDIA4	Plasmacytoid dendritic cell	Innate	Charoentong
+SERTAD2	Plasmacytoid dendritic cell	Innate	Charoentong
+SIRPA	Plasmacytoid dendritic cell	Innate	Charoentong
+TMED2	Plasmacytoid dendritic cell	Innate	Charoentong
+ENG	Plasmacytoid dendritic cell	Innate	Charoentong
+FCAR	Plasmacytoid dendritic cell	Innate	Charoentong
+IGF1	Plasmacytoid dendritic cell	Innate	Charoentong
+ITGA2B	Plasmacytoid dendritic cell	Innate	Charoentong
+GABARAP	Plasmacytoid dendritic cell	Innate	Charoentong
+GPX1	Plasmacytoid dendritic cell	Innate	Charoentong
+KRT23	Plasmacytoid dendritic cell	Innate	Charoentong
+PROK2	Plasmacytoid dendritic cell	Innate	Charoentong
+RALB	Plasmacytoid dendritic cell	Innate	Charoentong
+RETNLB	Plasmacytoid dendritic cell	Innate	Charoentong
+RNF141	Plasmacytoid dendritic cell	Innate	Charoentong
+SEC14L1	Plasmacytoid dendritic cell	Innate	Charoentong
+SEPX1	Plasmacytoid dendritic cell	Innate	Charoentong
+EMP3	Plasmacytoid dendritic cell	Innate	Charoentong
+CD300LF	Plasmacytoid dendritic cell	Innate	Charoentong
+ABTB1	Plasmacytoid dendritic cell	Innate	Charoentong
+KLHL21	Plasmacytoid dendritic cell	Innate	Charoentong
+PHRF1	Plasmacytoid dendritic cell	Innate	Charoentong
+CCL3L1	Regulatory T cell	Adaptive	Charoentong
+CD72	Regulatory T cell	Adaptive	Charoentong
+CLEC5A	Regulatory T cell	Adaptive	Charoentong
+FOXP3	Regulatory T cell	Adaptive	Charoentong
+ITGA4	Regulatory T cell	Adaptive	Charoentong
+L1CAM	Regulatory T cell	Adaptive	Charoentong
+LIPA	Regulatory T cell	Adaptive	Charoentong
+LRP1	Regulatory T cell	Adaptive	Charoentong
+LRRC42	Regulatory T cell	Adaptive	Charoentong
+MARCO	Regulatory T cell	Adaptive	Charoentong
+MMP12	Regulatory T cell	Adaptive	Charoentong
+MNDA	Regulatory T cell	Adaptive	Charoentong
+MRC1	Regulatory T cell	Adaptive	Charoentong
+MS4A6A	Regulatory T cell	Adaptive	Charoentong
+PELO	Regulatory T cell	Adaptive	Charoentong
+PLEK	Regulatory T cell	Adaptive	Charoentong
+PRSS23	Regulatory T cell	Adaptive	Charoentong
+PTGIR	Regulatory T cell	Adaptive	Charoentong
+ST8SIA4	Regulatory T cell	Adaptive	Charoentong
+STAB1	Regulatory T cell	Adaptive	Charoentong
+B3GAT1	T follicular helper cell	Adaptive	Charoentong
+CDK5R1	T follicular helper cell	Adaptive	Charoentong
+PDCD1	T follicular helper cell	Adaptive	Charoentong
+BCL6	T follicular helper cell	Adaptive	Charoentong
+CD200	T follicular helper cell	Adaptive	Charoentong
+CD83	T follicular helper cell	Adaptive	Charoentong
+CD84	T follicular helper cell	Adaptive	Charoentong
+FGF2	T follicular helper cell	Adaptive	Charoentong
+GPR18	T follicular helper cell	Adaptive	Charoentong
+CEBPA	T follicular helper cell	Adaptive	Charoentong
+CECR1	T follicular helper cell	Adaptive	Charoentong
+CLEC10A	T follicular helper cell	Adaptive	Charoentong
+CLEC4A	T follicular helper cell	Adaptive	Charoentong
+CSF1R	T follicular helper cell	Adaptive	Charoentong
+CTSS	T follicular helper cell	Adaptive	Charoentong
+DMN	T follicular helper cell	Adaptive	Charoentong
+DPP4	T follicular helper cell	Adaptive	Charoentong
+LRRC32	T follicular helper cell	Adaptive	Charoentong
+MC5R	T follicular helper cell	Adaptive	Charoentong
+MICA	T follicular helper cell	Adaptive	Charoentong
+NCAM1	T follicular helper cell	Adaptive	Charoentong
+NCR2	T follicular helper cell	Adaptive	Charoentong
+NRP1	T follicular helper cell	Adaptive	Charoentong
+PDCD1LG2	T follicular helper cell	Adaptive	Charoentong
+PDCD6	T follicular helper cell	Adaptive	Charoentong
+PRDX1	T follicular helper cell	Adaptive	Charoentong
+RAE1	T follicular helper cell	Adaptive	Charoentong
+RAET1E	T follicular helper cell	Adaptive	Charoentong
+SIGLEC7	T follicular helper cell	Adaptive	Charoentong
+SIGLEC9	T follicular helper cell	Adaptive	Charoentong
+TYRO3	T follicular helper cell	Adaptive	Charoentong
+CHST12	T follicular helper cell	Adaptive	Charoentong
+CLIC3	T follicular helper cell	Adaptive	Charoentong
+IVNS1ABP	T follicular helper cell	Adaptive	Charoentong
+KIR2DL2	T follicular helper cell	Adaptive	Charoentong
+LGMN	T follicular helper cell	Adaptive	Charoentong
+CCL20	T_cells_CD4_memory_activated		LM22
+CD2	T_cells_CD4_memory_activated		LM22
+CD247	T_cells_CD4_memory_activated		LM22
+CD28	T_cells_CD4_memory_activated		LM22
+CD3D	T_cells_CD4_memory_activated		LM22
+CD3G	T_cells_CD4_memory_activated		LM22
+CD40LG	T_cells_CD4_memory_activated		LM22
+CD6	T_cells_CD4_memory_activated		LM22
+CD7	T_cells_CD4_memory_activated		LM22
+CDC25A	T_cells_CD4_memory_activated		LM22
+CSF2	T_cells_CD4_memory_activated		LM22
+CTLA4	T_cells_CD4_memory_activated		LM22
+CXCL13	T_cells_CD4_memory_activated		LM22
+DPP4	T_cells_CD4_memory_activated		LM22
+GPR171	T_cells_CD4_memory_activated		LM22
+GPR19	T_cells_CD4_memory_activated		LM22
+GZMB	T_cells_CD4_memory_activated		LM22
+ICOS	T_cells_CD4_memory_activated		LM22
+IFNG	T_cells_CD4_memory_activated		LM22
+IL12RB2	T_cells_CD4_memory_activated		LM22
+IL17A	T_cells_CD4_memory_activated		LM22
+IL26	T_cells_CD4_memory_activated		LM22
+IL2RA	T_cells_CD4_memory_activated		LM22
+IL3	T_cells_CD4_memory_activated		LM22
+IL4	T_cells_CD4_memory_activated		LM22
+IL9	T_cells_CD4_memory_activated		LM22
+LAG3	T_cells_CD4_memory_activated		LM22
+LCK	T_cells_CD4_memory_activated		LM22
+LTA	T_cells_CD4_memory_activated		LM22
+NKG7	T_cells_CD4_memory_activated		LM22
+ORC1	T_cells_CD4_memory_activated		LM22
+PMCH	T_cells_CD4_memory_activated		LM22
+RRP9	T_cells_CD4_memory_activated		LM22
+SH2D1A	T_cells_CD4_memory_activated		LM22
+SKA1	T_cells_CD4_memory_activated		LM22
+TNFRSF4	T_cells_CD4_memory_activated		LM22
+TNIP3	T_cells_CD4_memory_activated		LM22
+TRAC	T_cells_CD4_memory_activated		LM22
+TRAT1	T_cells_CD4_memory_activated		LM22
+UBASH3A	T_cells_CD4_memory_activated		LM22
+BCL11B	T_cells_CD4_memory_resting		LM22
+CCL5	T_cells_CD4_memory_resting		LM22
+CCR6	T_cells_CD4_memory_resting		LM22
+CD2	T_cells_CD4_memory_resting		LM22
+CD247	T_cells_CD4_memory_resting		LM22
+CD27	T_cells_CD4_memory_resting		LM22
+CD28	T_cells_CD4_memory_resting		LM22
+CD3D	T_cells_CD4_memory_resting		LM22
+CD3E	T_cells_CD4_memory_resting		LM22
+CD3G	T_cells_CD4_memory_resting		LM22
+CD4	T_cells_CD4_memory_resting		LM22
+CD40LG	T_cells_CD4_memory_resting		LM22
+CD6	T_cells_CD4_memory_resting		LM22
+CD69	T_cells_CD4_memory_resting		LM22
+CD7	T_cells_CD4_memory_resting		LM22
+CD96	T_cells_CD4_memory_resting		LM22
+CTLA4	T_cells_CD4_memory_resting		LM22
+CTSW	T_cells_CD4_memory_resting		LM22
+DGKA	T_cells_CD4_memory_resting		LM22
+DPP4	T_cells_CD4_memory_resting		LM22
+EPB41	T_cells_CD4_memory_resting		LM22
+ETS1	T_cells_CD4_memory_resting		LM22
+FAIM3	T_cells_CD4_memory_resting		LM22
+FBXL8	T_cells_CD4_memory_resting		LM22
+FLT3LG	T_cells_CD4_memory_resting		LM22
+GPR171	T_cells_CD4_memory_resting		LM22
+GPR25	T_cells_CD4_memory_resting		LM22
+GRAP2	T_cells_CD4_memory_resting		LM22
+GZMA	T_cells_CD4_memory_resting		LM22
+GZMK	T_cells_CD4_memory_resting		LM22
+GZMM	T_cells_CD4_memory_resting		LM22
+ICOS	T_cells_CD4_memory_resting		LM22
+IL7R	T_cells_CD4_memory_resting		LM22
+ITK	T_cells_CD4_memory_resting		LM22
+KLRB1	T_cells_CD4_memory_resting		LM22
+LCK	T_cells_CD4_memory_resting		LM22
+LEF1	T_cells_CD4_memory_resting		LM22
+LIME1	T_cells_CD4_memory_resting		LM22
+LTB	T_cells_CD4_memory_resting		LM22
+LY9	T_cells_CD4_memory_resting		LM22
+NKG7	T_cells_CD4_memory_resting		LM22
+PBXIP1	T_cells_CD4_memory_resting		LM22
+PTGER2	T_cells_CD4_memory_resting		LM22
+PTPRCAP	T_cells_CD4_memory_resting		LM22
+RASA3	T_cells_CD4_memory_resting		LM22
+RASGRP2	T_cells_CD4_memory_resting		LM22
+RCAN3	T_cells_CD4_memory_resting		LM22
+RPL10L	T_cells_CD4_memory_resting		LM22
+RPL3P7	T_cells_CD4_memory_resting		LM22
+SH2D1A	T_cells_CD4_memory_resting		LM22
+SIRPG	T_cells_CD4_memory_resting		LM22
+ST8SIA1	T_cells_CD4_memory_resting		LM22
+TCF7	T_cells_CD4_memory_resting		LM22
+TRAC	T_cells_CD4_memory_resting		LM22
+TRAT1	T_cells_CD4_memory_resting		LM22
+TRAV13-1	T_cells_CD4_memory_resting		LM22
+TRAV13-2	T_cells_CD4_memory_resting		LM22
+TRAV21	T_cells_CD4_memory_resting		LM22
+TRAV8-6	T_cells_CD4_memory_resting		LM22
+TRAV9-2	T_cells_CD4_memory_resting		LM22
+TRBC1	T_cells_CD4_memory_resting		LM22
+UBASH3A	T_cells_CD4_memory_resting		LM22
+ZAP70	T_cells_CD4_memory_resting		LM22
+ZFP36L2	T_cells_CD4_memory_resting		LM22
+ACAP1	T_cells_CD4_naive		LM22
+ANKRD55	T_cells_CD4_naive		LM22
+ATHL1	T_cells_CD4_naive		LM22
+BCL11B	T_cells_CD4_naive		LM22
+CCR7	T_cells_CD4_naive		LM22
+CD2	T_cells_CD4_naive		LM22
+CD247	T_cells_CD4_naive		LM22
+CD27	T_cells_CD4_naive		LM22
+CD3D	T_cells_CD4_naive		LM22
+CD3G	T_cells_CD4_naive		LM22
+CD40LG	T_cells_CD4_naive		LM22
+CD7	T_cells_CD4_naive		LM22
+CXorf57	T_cells_CD4_naive		LM22
+DPP4	T_cells_CD4_naive		LM22
+DSC1	T_cells_CD4_naive		LM22
+EPHA1	T_cells_CD4_naive		LM22
+FAIM3	T_cells_CD4_naive		LM22
+FLJ13197	T_cells_CD4_naive		LM22
+FLT3LG	T_cells_CD4_naive		LM22
+GAL3ST4	T_cells_CD4_naive		LM22
+GALR1	T_cells_CD4_naive		LM22
+GPR1	T_cells_CD4_naive		LM22
+GRAP2	T_cells_CD4_naive		LM22
+GZMM	T_cells_CD4_naive		LM22
+ICOS	T_cells_CD4_naive		LM22
+IL7R	T_cells_CD4_naive		LM22
+ITK	T_cells_CD4_naive		LM22
+LAT	T_cells_CD4_naive		LM22
+LCK	T_cells_CD4_naive		LM22
+LEF1	T_cells_CD4_naive		LM22
+LIME1	T_cells_CD4_naive		LM22
+LTB	T_cells_CD4_naive		LM22
+LY9	T_cells_CD4_naive		LM22
+MAP4K1	T_cells_CD4_naive		LM22
+MAP4K2	T_cells_CD4_naive		LM22
+MAP9	T_cells_CD4_naive		LM22
+RASGRP2	T_cells_CD4_naive		LM22
+RPL3P7	T_cells_CD4_naive		LM22
+SERGEF	T_cells_CD4_naive		LM22
+SH2D1A	T_cells_CD4_naive		LM22
+SIRPG	T_cells_CD4_naive		LM22
+TCF7	T_cells_CD4_naive		LM22
+TRAC	T_cells_CD4_naive		LM22
+TRAT1	T_cells_CD4_naive		LM22
+TRAV13-1	T_cells_CD4_naive		LM22
+TRBC1	T_cells_CD4_naive		LM22
+UBASH3A	T_cells_CD4_naive		LM22
+VILL	T_cells_CD4_naive		LM22
+WNT7A	T_cells_CD4_naive		LM22
+ZAP70	T_cells_CD4_naive		LM22
+ZNF204P	T_cells_CD4_naive		LM22
+ZNF324	T_cells_CD4_naive		LM22
+BCL11B	T_cells_CD8		LM22
+CCL5	T_cells_CD8		LM22
+CD2	T_cells_CD8		LM22
+CD247	T_cells_CD8		LM22
+CD27	T_cells_CD8		LM22
+CD3D	T_cells_CD8		LM22
+CD3E	T_cells_CD8		LM22
+CD3G	T_cells_CD8		LM22
+CD6	T_cells_CD8		LM22
+CD69	T_cells_CD8		LM22
+CD7	T_cells_CD8		LM22
+CD8A	T_cells_CD8		LM22
+CD8B	T_cells_CD8		LM22
+CD96	T_cells_CD8		LM22
+CRTAM	T_cells_CD8		LM22
+CST7	T_cells_CD8		LM22
+CTSW	T_cells_CD8		LM22
+DPP4	T_cells_CD8		LM22
+DSC1	T_cells_CD8		LM22
+DUSP2	T_cells_CD8		LM22
+FAIM3	T_cells_CD8		LM22
+FLT3LG	T_cells_CD8		LM22
+GNLY	T_cells_CD8		LM22
+GPR171	T_cells_CD8		LM22
+GRAP2	T_cells_CD8		LM22
+GZMA	T_cells_CD8		LM22
+GZMB	T_cells_CD8		LM22
+GZMH	T_cells_CD8		LM22
+GZMK	T_cells_CD8		LM22
+GZMM	T_cells_CD8		LM22
+ICOS	T_cells_CD8		LM22
+IGKC	T_cells_CD8		LM22
+IL7R	T_cells_CD8		LM22
+ITK	T_cells_CD8		LM22
+KLRB1	T_cells_CD8		LM22
+KLRC3	T_cells_CD8		LM22
+KLRC4	T_cells_CD8		LM22
+KLRD1	T_cells_CD8		LM22
+KLRF1	T_cells_CD8		LM22
+KLRK1	T_cells_CD8		LM22
+LAG3	T_cells_CD8		LM22
+LCK	T_cells_CD8		LM22
+LEF1	T_cells_CD8		LM22
+LIME1	T_cells_CD8		LM22
+LTB	T_cells_CD8		LM22
+LY9	T_cells_CD8		LM22
+MAP4K1	T_cells_CD8		LM22
+MAP9	T_cells_CD8		LM22
+NCR3	T_cells_CD8		LM22
+NKG7	T_cells_CD8		LM22
+PIK3IP1	T_cells_CD8		LM22
+PRF1	T_cells_CD8		LM22
+PTGDR	T_cells_CD8		LM22
+PTPRCAP	T_cells_CD8		LM22
+PVRIG	T_cells_CD8		LM22
+RASA3	T_cells_CD8		LM22
+RPL3P7	T_cells_CD8		LM22
+SH2D1A	T_cells_CD8		LM22
+SIRPG	T_cells_CD8		LM22
+TCF7	T_cells_CD8		LM22
+TRAC	T_cells_CD8		LM22
+TRAT1	T_cells_CD8		LM22
+TRAV12-2	T_cells_CD8		LM22
+TRAV13-1	T_cells_CD8		LM22
+TRBC1	T_cells_CD8		LM22
+TRDC	T_cells_CD8		LM22
+UBASH3A	T_cells_CD8		LM22
+ZAP70	T_cells_CD8		LM22
+ATHL1	T_cells_follicular_helper		LM22
+BCL11B	T_cells_follicular_helper		LM22
+CA8	T_cells_follicular_helper		LM22
+CD2	T_cells_follicular_helper		LM22
+CD247	T_cells_follicular_helper		LM22
+CD27	T_cells_follicular_helper		LM22
+CD3D	T_cells_follicular_helper		LM22
+CD3G	T_cells_follicular_helper		LM22
+CD40LG	T_cells_follicular_helper		LM22
+CD69	T_cells_follicular_helper		LM22
+CD7	T_cells_follicular_helper		LM22
+CHI3L2	T_cells_follicular_helper		LM22
+CTLA4	T_cells_follicular_helper		LM22
+CXCL13	T_cells_follicular_helper		LM22
+CXCR5	T_cells_follicular_helper		LM22
+DGKA	T_cells_follicular_helper		LM22
+FAIM3	T_cells_follicular_helper		LM22
+FOSB	T_cells_follicular_helper		LM22
+FZD3	T_cells_follicular_helper		LM22
+GPR19	T_cells_follicular_helper		LM22
+GZMM	T_cells_follicular_helper		LM22
+ICA1	T_cells_follicular_helper		LM22
+ICOS	T_cells_follicular_helper		LM22
+IL21	T_cells_follicular_helper		LM22
+ITK	T_cells_follicular_helper		LM22
+KLRB1	T_cells_follicular_helper		LM22
+LAG3	T_cells_follicular_helper		LM22
+LAT	T_cells_follicular_helper		LM22
+LCK	T_cells_follicular_helper		LM22
+LEF1	T_cells_follicular_helper		LM22
+LTA	T_cells_follicular_helper		LM22
+MAP4K1	T_cells_follicular_helper		LM22
+MAP9	T_cells_follicular_helper		LM22
+PASK	T_cells_follicular_helper		LM22
+PDCD1	T_cells_follicular_helper		LM22
+PTPRCAP	T_cells_follicular_helper		LM22
+PVRIG	T_cells_follicular_helper		LM22
+RGS1	T_cells_follicular_helper		LM22
+RPL3P7	T_cells_follicular_helper		LM22
+SH2D1A	T_cells_follicular_helper		LM22
+SIK1	T_cells_follicular_helper		LM22
+SIRPG	T_cells_follicular_helper		LM22
+SLC7A10	T_cells_follicular_helper		LM22
+ST8SIA1	T_cells_follicular_helper		LM22
+TCF7	T_cells_follicular_helper		LM22
+TNFRSF4	T_cells_follicular_helper		LM22
+TRAC	T_cells_follicular_helper		LM22
+TRAT1	T_cells_follicular_helper		LM22
+TRAV13-1	T_cells_follicular_helper		LM22
+TRAV8-6	T_cells_follicular_helper		LM22
+TRAV9-2	T_cells_follicular_helper		LM22
+TRBC1	T_cells_follicular_helper		LM22
+TRIB2	T_cells_follicular_helper		LM22
+TSHR	T_cells_follicular_helper		LM22
+UBASH3A	T_cells_follicular_helper		LM22
+ZAP70	T_cells_follicular_helper		LM22
+ZBTB10	T_cells_follicular_helper		LM22
+BFSP1	T_cells_gamma_delta		LM22
+BRSK2	T_cells_gamma_delta		LM22
+CCL5	T_cells_gamma_delta		LM22
+CCR5	T_cells_gamma_delta		LM22
+CD160	T_cells_gamma_delta		LM22
+CD2	T_cells_gamma_delta		LM22
+CD244	T_cells_gamma_delta		LM22
+CD247	T_cells_gamma_delta		LM22
+CD300A	T_cells_gamma_delta		LM22
+CD3D	T_cells_gamma_delta		LM22
+CD3G	T_cells_gamma_delta		LM22
+CD8A	T_cells_gamma_delta		LM22
+CD8B	T_cells_gamma_delta		LM22
+CDH12	T_cells_gamma_delta		LM22
+COLQ	T_cells_gamma_delta		LM22
+CST7	T_cells_gamma_delta		LM22
+CXCR6	T_cells_gamma_delta		LM22
+DUSP2	T_cells_gamma_delta		LM22
+GFI1	T_cells_gamma_delta		LM22
+GNLY	T_cells_gamma_delta		LM22
+GPR171	T_cells_gamma_delta		LM22
+GPR18	T_cells_gamma_delta		LM22
+GYPE	T_cells_gamma_delta		LM22
+GZMA	T_cells_gamma_delta		LM22
+GZMB	T_cells_gamma_delta		LM22
+GZMH	T_cells_gamma_delta		LM22
+GZMK	T_cells_gamma_delta		LM22
+GZMM	T_cells_gamma_delta		LM22
+IL18RAP	T_cells_gamma_delta		LM22
+IL2RB	T_cells_gamma_delta		LM22
+KLRB1	T_cells_gamma_delta		LM22
+KLRD1	T_cells_gamma_delta		LM22
+KLRG1	T_cells_gamma_delta		LM22
+KLRK1	T_cells_gamma_delta		LM22
+KRT18P50	T_cells_gamma_delta		LM22
+LAG3	T_cells_gamma_delta		LM22
+LAT	T_cells_gamma_delta		LM22
+LCK	T_cells_gamma_delta		LM22
+LHCGR	T_cells_gamma_delta		LM22
+LY9	T_cells_gamma_delta		LM22
+MAGEA11	T_cells_gamma_delta		LM22
+MAP4K1	T_cells_gamma_delta		LM22
+PLEKHG3	T_cells_gamma_delta		LM22
+PRF1	T_cells_gamma_delta		LM22
+PTGDR	T_cells_gamma_delta		LM22
+PVRIG	T_cells_gamma_delta		LM22
+SCN9A	T_cells_gamma_delta		LM22
+SH2D1A	T_cells_gamma_delta		LM22
+SIRPG	T_cells_gamma_delta		LM22
+SIT1	T_cells_gamma_delta		LM22
+SKAP1	T_cells_gamma_delta		LM22
+TARDBPP1	T_cells_gamma_delta		LM22
+TCF7	T_cells_gamma_delta		LM22
+TRBC1	T_cells_gamma_delta		LM22
+TRDC	T_cells_gamma_delta		LM22
+UBASH3A	T_cells_gamma_delta		LM22
+VNN2	T_cells_gamma_delta		LM22
+ZNF442	T_cells_gamma_delta		LM22
+BARX2	T_cells_regulatory_(Tregs)		LM22
+BCL11B	T_cells_regulatory_(Tregs)		LM22
+CD2	T_cells_regulatory_(Tregs)		LM22
+CD247	T_cells_regulatory_(Tregs)		LM22
+CD27	T_cells_regulatory_(Tregs)		LM22
+CD28	T_cells_regulatory_(Tregs)		LM22
+CD3D	T_cells_regulatory_(Tregs)		LM22
+CD3E	T_cells_regulatory_(Tregs)		LM22
+CD3G	T_cells_regulatory_(Tregs)		LM22
+CD4	T_cells_regulatory_(Tregs)		LM22
+CD5	T_cells_regulatory_(Tregs)		LM22
+CD6	T_cells_regulatory_(Tregs)		LM22
+CD70	T_cells_regulatory_(Tregs)		LM22
+CD96	T_cells_regulatory_(Tregs)		LM22
+CEMP1	T_cells_regulatory_(Tregs)		LM22
+CLEC2D	T_cells_regulatory_(Tregs)		LM22
+CTLA4	T_cells_regulatory_(Tregs)		LM22
+DGKA	T_cells_regulatory_(Tregs)		LM22
+DPP4	T_cells_regulatory_(Tregs)		LM22
+EFNA5	T_cells_regulatory_(Tregs)		LM22
+FOXP3	T_cells_regulatory_(Tregs)		LM22
+FRMD8	T_cells_regulatory_(Tregs)		LM22
+GPR1	T_cells_regulatory_(Tregs)		LM22
+GPR171	T_cells_regulatory_(Tregs)		LM22
+GPR19	T_cells_regulatory_(Tregs)		LM22
+GZMM	T_cells_regulatory_(Tregs)		LM22
+HIC1	T_cells_regulatory_(Tregs)		LM22
+HMGB3P30	T_cells_regulatory_(Tregs)		LM22
+ICOS	T_cells_regulatory_(Tregs)		LM22
+IL2RA	T_cells_regulatory_(Tregs)		LM22
+IL2RB	T_cells_regulatory_(Tregs)		LM22
+ITK	T_cells_regulatory_(Tregs)		LM22
+KIRREL	T_cells_regulatory_(Tregs)		LM22
+LAIR2	T_cells_regulatory_(Tregs)		LM22
+LCK	T_cells_regulatory_(Tregs)		LM22
+LILRA4	T_cells_regulatory_(Tregs)		LM22
+LOC126987	T_cells_regulatory_(Tregs)		LM22
+LTB	T_cells_regulatory_(Tregs)		LM22
+MAP4K1	T_cells_regulatory_(Tregs)		LM22
+MBL2	T_cells_regulatory_(Tregs)		LM22
+NPAS1	T_cells_regulatory_(Tregs)		LM22
+NTN3	T_cells_regulatory_(Tregs)		LM22
+PCDHA5	T_cells_regulatory_(Tregs)		LM22
+PLCH2	T_cells_regulatory_(Tregs)		LM22
+PMCH	T_cells_regulatory_(Tregs)		LM22
+PTGIR	T_cells_regulatory_(Tregs)		LM22
+PTPRG	T_cells_regulatory_(Tregs)		LM22
+RCAN3	T_cells_regulatory_(Tregs)		LM22
+RYR1	T_cells_regulatory_(Tregs)		LM22
+SEC31B	T_cells_regulatory_(Tregs)		LM22
+sep-05	T_cells_regulatory_(Tregs)		LM22
+SH2D1A	T_cells_regulatory_(Tregs)		LM22
+SIRPG	T_cells_regulatory_(Tregs)		LM22
+SIT1	T_cells_regulatory_(Tregs)		LM22
+SKAP1	T_cells_regulatory_(Tregs)		LM22
+SPOCK2	T_cells_regulatory_(Tregs)		LM22
+SSX1	T_cells_regulatory_(Tregs)		LM22
+TRAC	T_cells_regulatory_(Tregs)		LM22
+TRAT1	T_cells_regulatory_(Tregs)		LM22
+TRAV9-2	T_cells_regulatory_(Tregs)		LM22
+TRBC1	T_cells_regulatory_(Tregs)		LM22
+TYR	T_cells_regulatory_(Tregs)		LM22
+UBASH3A	T_cells_regulatory_(Tregs)		LM22
+ZAP70	T_cells_regulatory_(Tregs)		LM22
+CD70	Type 1 T helper cell	Adaptive	Charoentong
+TBX21	Type 1 T helper cell	Adaptive	Charoentong
+ADAM8	Type 1 T helper cell	Adaptive	Charoentong
+AHCYL2	Type 1 T helper cell	Adaptive	Charoentong
+ALCAM	Type 1 T helper cell	Adaptive	Charoentong
+B3GALNT1	Type 1 T helper cell	Adaptive	Charoentong
+BBS12	Type 1 T helper cell	Adaptive	Charoentong
+BST1	Type 1 T helper cell	Adaptive	Charoentong
+CD151	Type 1 T helper cell	Adaptive	Charoentong
+CD47	Type 1 T helper cell	Adaptive	Charoentong
+CD48	Type 1 T helper cell	Adaptive	Charoentong
+CD52	Type 1 T helper cell	Adaptive	Charoentong
+CD53	Type 1 T helper cell	Adaptive	Charoentong
+CD59	Type 1 T helper cell	Adaptive	Charoentong
+CD6	Type 1 T helper cell	Adaptive	Charoentong
+CD68	Type 1 T helper cell	Adaptive	Charoentong
+CD7	Type 1 T helper cell	Adaptive	Charoentong
+CD96	Type 1 T helper cell	Adaptive	Charoentong
+CFHR3	Type 1 T helper cell	Adaptive	Charoentong
+CHRM3	Type 1 T helper cell	Adaptive	Charoentong
+CLEC7A	Type 1 T helper cell	Adaptive	Charoentong
+COL23A1	Type 1 T helper cell	Adaptive	Charoentong
+COL4A4	Type 1 T helper cell	Adaptive	Charoentong
+COL5A3	Type 1 T helper cell	Adaptive	Charoentong
+DAB1	Type 1 T helper cell	Adaptive	Charoentong
+DLEU7	Type 1 T helper cell	Adaptive	Charoentong
+DOC2B	Type 1 T helper cell	Adaptive	Charoentong
+EMP1	Type 1 T helper cell	Adaptive	Charoentong
+F12	Type 1 T helper cell	Adaptive	Charoentong
+FURIN	Type 1 T helper cell	Adaptive	Charoentong
+GAB3	Type 1 T helper cell	Adaptive	Charoentong
+GATM	Type 1 T helper cell	Adaptive	Charoentong
+GFPT2	Type 1 T helper cell	Adaptive	Charoentong
+GPR25	Type 1 T helper cell	Adaptive	Charoentong
+GREM2	Type 1 T helper cell	Adaptive	Charoentong
+HAVCR1	Type 1 T helper cell	Adaptive	Charoentong
+HSD11B1	Type 1 T helper cell	Adaptive	Charoentong
+HUNK	Type 1 T helper cell	Adaptive	Charoentong
+IGF2	Type 1 T helper cell	Adaptive	Charoentong
+RCSD1	Type 1 T helper cell	Adaptive	Charoentong
+RYR1	Type 1 T helper cell	Adaptive	Charoentong
+SAV1	Type 1 T helper cell	Adaptive	Charoentong
+SELE	Type 1 T helper cell	Adaptive	Charoentong
+SELP	Type 1 T helper cell	Adaptive	Charoentong
+SH3KBP1	Type 1 T helper cell	Adaptive	Charoentong
+SIT1	Type 1 T helper cell	Adaptive	Charoentong
+SLC35B3	Type 1 T helper cell	Adaptive	Charoentong
+SIGLEC10	Type 1 T helper cell	Adaptive	Charoentong
+SKAP1	Type 1 T helper cell	Adaptive	Charoentong
+THUMPD2	Type 1 T helper cell	Adaptive	Charoentong
+TIGIT	Type 1 T helper cell	Adaptive	Charoentong
+ZEB2	Type 1 T helper cell	Adaptive	Charoentong
+ENC1	Type 1 T helper cell	Adaptive	Charoentong
+FAM134B	Type 1 T helper cell	Adaptive	Charoentong
+FBXO30	Type 1 T helper cell	Adaptive	Charoentong
+FCGR2C	Type 1 T helper cell	Adaptive	Charoentong
+STAC	Type 1 T helper cell	Adaptive	Charoentong
+LTC4S	Type 1 T helper cell	Adaptive	Charoentong
+MAN1B1	Type 1 T helper cell	Adaptive	Charoentong
+MDH1	Type 1 T helper cell	Adaptive	Charoentong
+MMD	Type 1 T helper cell	Adaptive	Charoentong
+RGS16	Type 1 T helper cell	Adaptive	Charoentong
+IL12A	Type 1 T helper cell	Adaptive	Charoentong
+P2RX5	Type 1 T helper cell	Adaptive	Charoentong
+CD97	Type 1 T helper cell	Adaptive	Charoentong
+ITGB4	Type 1 T helper cell	Adaptive	Charoentong
+ICAM3	Type 1 T helper cell	Adaptive	Charoentong
+METRNL	Type 1 T helper cell	Adaptive	Charoentong
+TNFRSF1A	Type 1 T helper cell	Adaptive	Charoentong
+IRF1	Type 1 T helper cell	Adaptive	Charoentong
+HTR2B	Type 1 T helper cell	Adaptive	Charoentong
+CALD1	Type 1 T helper cell	Adaptive	Charoentong
+MOCOS	Type 1 T helper cell	Adaptive	Charoentong
+TRAF3IP2	Type 1 T helper cell	Adaptive	Charoentong
+TLR8	Type 1 T helper cell	Adaptive	Charoentong
+TRAF1	Type 1 T helper cell	Adaptive	Charoentong
+DUSP14	Type 1 T helper cell	Adaptive	Charoentong
+IL17A	Type 17 T helper cell	Adaptive	Charoentong
+IL17RA	Type 17 T helper cell	Adaptive	Charoentong
+C2CD4A	Type 17 T helper cell	Adaptive	Charoentong
+C2CD4B	Type 17 T helper cell	Adaptive	Charoentong
+CA2	Type 17 T helper cell	Adaptive	Charoentong
+CCDC65	Type 17 T helper cell	Adaptive	Charoentong
+CEACAM3	Type 17 T helper cell	Adaptive	Charoentong
+IL17C	Type 17 T helper cell	Adaptive	Charoentong
+IL17F	Type 17 T helper cell	Adaptive	Charoentong
+IL17RC	Type 17 T helper cell	Adaptive	Charoentong
+IL17RE	Type 17 T helper cell	Adaptive	Charoentong
+IL23A	Type 17 T helper cell	Adaptive	Charoentong
+ILDR1	Type 17 T helper cell	Adaptive	Charoentong
+LONRF3	Type 17 T helper cell	Adaptive	Charoentong
+SH2D6	Type 17 T helper cell	Adaptive	Charoentong
+TNIP2	Type 17 T helper cell	Adaptive	Charoentong
+ABCA1	Type 17 T helper cell	Adaptive	Charoentong
+ABCB1	Type 17 T helper cell	Adaptive	Charoentong
+ADAMTS12	Type 17 T helper cell	Adaptive	Charoentong
+ANK1	Type 17 T helper cell	Adaptive	Charoentong
+ANKRD22	Type 17 T helper cell	Adaptive	Charoentong
+B3GALT2	Type 17 T helper cell	Adaptive	Charoentong
+CAMTA1	Type 17 T helper cell	Adaptive	Charoentong
+CCR9	Type 17 T helper cell	Adaptive	Charoentong
+CD40	Type 17 T helper cell	Adaptive	Charoentong
+GPR44	Type 17 T helper cell	Adaptive	Charoentong
+IFT80	Type 17 T helper cell	Adaptive	Charoentong
+ASB2	Type 2 T helper cell	Adaptive	Charoentong
+CSRP2	Type 2 T helper cell	Adaptive	Charoentong
+DAPK1	Type 2 T helper cell	Adaptive	Charoentong
+DLC1	Type 2 T helper cell	Adaptive	Charoentong
+DNAJC12	Type 2 T helper cell	Adaptive	Charoentong
+DUSP6	Type 2 T helper cell	Adaptive	Charoentong
+GNAI1	Type 2 T helper cell	Adaptive	Charoentong
+LAMP3	Type 2 T helper cell	Adaptive	Charoentong
+NRP2	Type 2 T helper cell	Adaptive	Charoentong
+OSBPL1A	Type 2 T helper cell	Adaptive	Charoentong
+PDE4B	Type 2 T helper cell	Adaptive	Charoentong
+PHLDA1	Type 2 T helper cell	Adaptive	Charoentong
+PLA2G4A	Type 2 T helper cell	Adaptive	Charoentong
+RAB27B	Type 2 T helper cell	Adaptive	Charoentong
+RBMS3	Type 2 T helper cell	Adaptive	Charoentong
+RNF125	Type 2 T helper cell	Adaptive	Charoentong
+TMPRSS3	Type 2 T helper cell	Adaptive	Charoentong
+GATA3	Type 2 T helper cell	Adaptive	Charoentong
+BIRC5	Type 2 T helper cell	Adaptive	Charoentong
+CDC25C	Type 2 T helper cell	Adaptive	Charoentong
+CDC7	Type 2 T helper cell	Adaptive	Charoentong
+CENPF	Type 2 T helper cell	Adaptive	Charoentong
+CXCR6	Type 2 T helper cell	Adaptive	Charoentong
+DHFR	Type 2 T helper cell	Adaptive	Charoentong
+EVI5	Type 2 T helper cell	Adaptive	Charoentong
+GSTA4	Type 2 T helper cell	Adaptive	Charoentong
+HELLS	Type 2 T helper cell	Adaptive	Charoentong
+IL26	Type 2 T helper cell	Adaptive	Charoentong
+LAIR2	Type 2 T helper cell	Adaptive	Charoentong
