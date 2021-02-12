@@ -1,0 +1,34 @@
+---
+title: "Aging more than just wrinkles: aging patterns of the immune infiltrating cells and tumoral cells."
+subtitle: "2nd Workshop of Bioinformatics"
+author: "Sandra, Bertha, Tania, Erandi, Cynthia"
+date: "2/12/2021"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Introduction: BRCA and EpiClocks
+```{r, fig.align="center", out.width= "95%", out.height= "95%"}
+knitr::include_graphics("1.png")
+```
+
+
+## What we did
+```{r, fig.align="center", out.width= "95%", out.height= "95%"}
+knitr::include_graphics("2.jpeg")
+```
+
+## Integrative figure
+```{r, fig.align="center", out.width= "95%", out.height= "95%"}
+knitr::include_graphics("3.png")
+```
+
+## *Thank you very much!* 
+```{r, fig.align="center", out.width= "95%", out.height= "95%"}
+knitr::include_graphics("4.png")
+```
+
+
