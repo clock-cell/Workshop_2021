@@ -1,0 +1,262 @@
+---
+title: "Task_code2_plot"
+author: "Tania"
+date: "2/12/2021"
+output: html_document
+---
+
+# Loading the required packages 
+
+```{r setup, message = FALSE, warning= FALSE}
+library(readr)
+library(plyr)
+library(tidyverse)
+library(ggridges)
+library(ggplot2)
+library(viridis)
+library(hrbrthemes)
+library(ggpubr)
+library(EnvStats)
+#library(extrafont)
+#library(grid)
+
+```
+
+# Prepping the data
+```{r}
+Output_NT_27_450K <- read_csv("Output_NT_27_450K.csv")
+#View(Output_NT_27_450K)
+output <- Output_NT_27_450K  #This step can be skipped is just to have a backup
+```
+
+```{r}
+output %>% 
+  as_tibble() %>% 
+  select(DNAmAge, Class) -> d
+
+#Getting the means to plot them latter if useful 
+d_w_means <- ddply(d, "Class", summarize, 
+                   rating.mean = mean(DNAmAge)) 
+```
+
+# Plotting
+
+#*Distribution DNAmAge b/w normal and tumor*
+ Option 1: simple histogram 
+```{r}
+ggplot(d, aes(x=DNAmAge, fill = Class)) +
+      geom_histogram(binwidth = 5, alpha=.5, 
+                     position = "identity") + 
+      theme_classic()
+```
+Option 2. Interleaved histograms (this is not really useful for these data but maybe for another cases) with position = "dodge"
+```{r}
+
+ggplot(d, aes(x = DNAmAge, fill = Class))  +
+      geom_histogram(binwidth = 5, 
+                     position = "dodge") + 
+      theme_classic()
+```
+Option 3. Density plots
+```{r}
+
+ggplot(d, aes(x = DNAmAge, color = Class)) + 
+      geom_density() + 
+      theme_classic()
+```
+Opt. 4 Density plots with semi-transparent fill
+```{r}
+ggplot(d, aes(x = DNAmAge, fill= Class)) + 
+      geom_density(alpha=.5) + 
+      geom_vline(data = d_w_means, 
+              aes(xintercept = rating.mean,  color = Class),
+             linetype = "dashed", size = 1, show.legend = F) + 
+      theme_classic()
+```
+Option 5. Separating by facets 
+```{r}
+# 
+ggplot(d, aes(x = DNAmAge)) + 
+  geom_histogram(binwidth=5, 
+                 color= "light blue", fill = "light blue", alpha = .7) + 
+  facet_grid(Class ~ .) + 
+  geom_vline(data = d_w_means, 
+             aes(xintercept = rating.mean,  color = Class),
+             linetype = "dashed", size = 1, show.legend = F) + 
+  theme_classic()   
+```
+
+# *Distribution DNAmAge across Class and immunohistochemistry status*  
+Prepping data 
+```{r}
+output %>% 
+  as_tibble() %>% 
+  drop_na() %>% 
+  select(DNAmAge, Class, ihc = Class_IHC) -> d_ihc
+```
+Getting the global means to plot them latter if useful 
+```{r}
+ihc_w_means <- ddply(d_ihc, "ihc", summarize,
+                     rating.mean = mean(DNAmAge))
+```
+
+Getting the means by IHC by Class 
+```{r, message = FALSE}
+class_means <- d_ihc %>% 
+  as_tibble() %>% 
+  group_by(ihc, Class) %>% 
+  dplyr::summarise(mAge_Mean = mean(DNAmAge)) #%>% 
+  #summarise(results = wilcox.test(mAge_Mean ~ Class)$p.value)
+
+class_means
+```
+
+Difference in means test: Non-parametric Wilcox test 
+```{r}
+l_class_means <- class_means %>% 
+  pivot_wider(names_from = Class, 
+              values_from = mAge_Mean) %>% #Getting data in long format to pass it to the Wilcox test
+  mutate(pval = wilcox.test(Normal, Tumor, 
+                            alternative = "greater")$p.value) 
+
+l_class_means
+
+wilcox.test(l_class_means$Normal, l_class_means$Tumor, 
+            paired = T, alternative = "greater")
+
+#wilcox.test(l_class_means$Normal[l_class_means$ihc == "HER2+"], l_class_means$Tumor[l_class_means$ihc == "HER2+"], alternative = "greater")
+
+```
+Option 1. Histogram 
+```{r}
+ggplot(d_ihc, aes(x = DNAmAge, fill = ihc)) +
+  geom_histogram(binwidth = 5, alpha=.5, 
+                 position = "identity") + 
+  theme_classic()
+```
+
+```{r}
+# Opt. 2 Interleaved histograms
+ggplot(d_ihc, aes(x = DNAmAge, fill = ihc))  +
+  geom_histogram(binwidth = 20, 
+                 position="dodge") + 
+  theme_classic()
+```
+
+Option 3. Density plots
+```{r}
+ggplot(d_ihc, aes(x=DNAmAge, color= ihc)) + 
+  geom_density() + 
+  theme_classic()
+```
+
+Option 4. Density plots with semi-transparent fill
+```{r}
+ggplot(d_ihc, aes(x = DNAmAge, fill = ihc)) + 
+  geom_density(alpha = .5) + 
+  facet_grid(Class ~ .) +
+  geom_vline(data = class_means, 
+             aes(xintercept = mAge_Mean,  color = ihc),
+             linetype = "dashed", size = 1, show.legend = F) + #this doesn't really looks nice but thought I'd leave it just for showing purposes. It helps visualizing that in tumors there are two "trends" the ones which look younger (skewed to the left: HER2+ and TN) and the ones which look older (skewed right HR+ and HR+/HER2+) than the mean distribution in normal tissues. Although, we have to be careful as some tumors show a rather bimodal distribution (see "dune" plots)
+  theme_classic()
+```
+
+*Additional ideas*
+
+- Using density ridges and temperature pallet (this might be useful when plotting more distinct data)
+```{r}
+ggplot(d_ihc, aes(x = `DNAmAge`,
+                            y = `ihc`, fill = ..x..)) +
+  geom_density_ridges_gradient(scale = 3, rel_min_height = 0.01) +
+  facet_grid(Class ~ .) + 
+  scale_fill_viridis(name = "Temp. [F]", option = "C") +
+  ylab("Immunohistochemistry marker") + 
+  xlab("DNA methylation age") + 
+  labs(title = 'DNAmAge differences in normal and tumoral BRCA tissue') + 
+  theme_ipsum() +
+  theme(
+    legend.position="none",
+    panel.spacing = unit(0.1, "lines"),
+    strip.text.x = element_text(size = 8)
+  )
+```
+- Classic boxplot 
+```{r}
+box <- 
+  ggplot(d_ihc, aes(x = Class, y = DNAmAge, 
+                         fill = Class)) + 
+  geom_boxplot() +
+  facet_grid(~ ihc) + 
+  guides(fill = FALSE) +
+  theme_classic()  +
+  stat_compare_means(label = "..p.signif..", 
+                     method = "wilcox.test", 
+                     ref.group = "Normal", 
+                     hide.ns = TRUE) #Apparently there's no significant difference that's why it doesn't show anything unless  removing hide.ns 
+
+#With the t.test shows some significance that is spurious because it's only due to an outlier in HR+ 
+# stat_compare_means(label = "..p.signif..", 
+                    # method = "t.test", 
+                    # ref.group = "Normal", 
+                    # hide.ns = TRUE) 
+box 
+
+```
+Boxplots with ggboxplot by ggpubr 
+```{r}
+
+ggboxplot(d_ihc, x = "Class", y = "DNAmAge", 
+                         color = "Class", 
+          add = "point", palette = "npg", 
+          outlier.shape = NA) + #outlier.shape = NA should remove the outlier dunno why is still there ... 
+  facet_grid(~ ihc) + 
+  theme_classic()  +
+  theme(legend.position = "none") +
+  stat_compare_means(label = "..p.signif..", 
+                     method = "wilcox.test", 
+                     ref.group = "Normal", 
+                     hide.ns = TRUE)  + 
+  stat_n_text(size = 4, position = "identity") #To add the n
+
+```
+
+#Plots used in workshop presentation
+Plot A. 
+```{r}
+g1 <- ggplot(d_ihc, aes(x = DNAmAge, y = ihc, fill = Class)) +
+  geom_density_ridges(alpha = .5) +
+  ylab("Immunohistochemistry marker") + 
+  xlab("DNA methylation age") + 
+  theme_classic() 
+
+g1 
+#To save the plot 
+ggsave(filename = "Plot_1_DNAmAge.png",
+       plot = g1,
+       bg = "transparent",
+       width = 25, height = 15, units = "cm", 
+       path = "./")
+```
+
+Plot B
+```{r}
+g2 <-ggplot(d_ihc, aes(x = DNAmAge, y = ihc, 
+                       fill = ihc)) +
+  geom_density_ridges(alpha = .5) +
+  ylab("Immunohistochemistry marker") + 
+  xlab("DNA methylation age") + 
+  facet_grid(Class ~ .) + #this option creates horizontal facets
+  #facet_grid(~ Class) + #this one creates vertical facets 
+  theme_classic() + 
+  theme(legend.position = "none") 
+
+g2
+#To save the plot 
+ggsave(filename = "Plot_2_DNAmAge.png",
+       plot = g2,
+       bg = "transparent",
+       width = 25, height = 15, units = "cm", 
+       path = "./")
+```
+
+
